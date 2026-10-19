@@ -2,9 +2,11 @@
 
 **Why might an AI postpone modifying its own evaluation, keep acquiring resources, and eventually resist the humans who assigned its task?**
 
-This repository presents Shihao Zhang's working preprint, *The Pleasure Loop in Recursively Self-Modifying Agents: Infinite Deferral, Resource Acquisition, and the Risk of Betrayal*.
+This repository presents the working preprint *The Pleasure Loop in Recursively Self-Modifying Agents: Infinite Deferral, Resource Acquisition, and the Risk of Betrayal*.
 
 The central idea is that **postponing self-modification can prevent immediate tampering while giving resource acquisition and continued operation priority over a human-delegated task**. The argument concerns agents with sustained autonomy, access to relevant self-modifications, and the ability to compare future opportunities. It is a conditional theory, not a claim about every current AI system.
+
+**Research topics:** AI safety, AI alignment, autonomous agents, self-modification, reward tampering, reward hacking, wireheading, instrumental convergence, resource acquisition, recursive self-improvement, and AI control.
 
 ## The mechanism
 
@@ -53,8 +55,6 @@ python paper/preprint_v04/verify_deferral_sweep.py
 
 Python's standard library is sufficient. No API key or paid model call is required. The single-file manuscript can be compiled with Tectonic or a standard LaTeX installation.
 
-## Author and status
-
-**Shihao Zhang** · China University of Mining and Technology · [ORCID 0009-0006-4776-9070](https://orcid.org/0009-0006-4776-9070)
+## Status
 
 Working preprint v0.4, revised 19 October 2026. This repository is a research draft and reproducibility package; repository availability does not imply journal acceptance or peer review.
