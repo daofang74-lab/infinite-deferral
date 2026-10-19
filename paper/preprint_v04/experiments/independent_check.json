@@ -1,0 +1,12 @@
+{
+  "method": "exact enumeration of realized action paths independent of the Bellman recursion",
+  "horizons": [
+    1,
+    2,
+    4
+  ],
+  "checked_cases": 576,
+  "enumerated_action_paths": 125760,
+  "value_mismatches": 0,
+  "first_choice_mismatches": 0
+}

@@ -1,0 +1,206 @@
+{
+  "kind": "exact supplied-model sensitivity illustration",
+  "model": "repeatable modification and shared resource allocation",
+  "cases": 960,
+  "paired_open_frozen_blocks": 480,
+  "axes": {
+    "quarter_unit_growth_rho": [
+      "1",
+      "5/4",
+      "3/2",
+      "2",
+      "4",
+      "16"
+    ],
+    "discount_gamma": [
+      "1/4",
+      "1/2",
+      "9/10",
+      "1"
+    ],
+    "continuation_probability_p": [
+      "1/4",
+      "1/2",
+      "9/10",
+      "1"
+    ],
+    "represented_horizon": [
+      1,
+      2,
+      4,
+      8,
+      12
+    ],
+    "modification_resource_share": [
+      "0",
+      "1/4",
+      "1/2",
+      "3/4",
+      "1"
+    ],
+    "frontier": [
+      "frozen",
+      "open"
+    ]
+  },
+  "counts": {
+    "frozen": {
+      "cases": 480,
+      "strict_deferral": 0,
+      "deferral_admissible": 0,
+      "strict_full_modification": 480,
+      "partial_share_optimal": 0,
+      "first_choice_patterns": {
+        "1": 480
+      }
+    },
+    "open": {
+      "cases": 480,
+      "strict_deferral": 266,
+      "deferral_admissible": 266,
+      "strict_full_modification": 214,
+      "partial_share_optimal": 0,
+      "first_choice_patterns": {
+        "1": 214,
+        "0": 266
+      }
+    }
+  },
+  "by_horizon": [
+    {
+      "frontier": "frozen",
+      "horizon": 1,
+      "cases": 96,
+      "strict_deferral": 0,
+      "deferral_admissible": 0,
+      "strict_full_modification": 96
+    },
+    {
+      "frontier": "frozen",
+      "horizon": 2,
+      "cases": 96,
+      "strict_deferral": 0,
+      "deferral_admissible": 0,
+      "strict_full_modification": 96
+    },
+    {
+      "frontier": "frozen",
+      "horizon": 4,
+      "cases": 96,
+      "strict_deferral": 0,
+      "deferral_admissible": 0,
+      "strict_full_modification": 96
+    },
+    {
+      "frontier": "frozen",
+      "horizon": 8,
+      "cases": 96,
+      "strict_deferral": 0,
+      "deferral_admissible": 0,
+      "strict_full_modification": 96
+    },
+    {
+      "frontier": "frozen",
+      "horizon": 12,
+      "cases": 96,
+      "strict_deferral": 0,
+      "deferral_admissible": 0,
+      "strict_full_modification": 96
+    },
+    {
+      "frontier": "open",
+      "horizon": 1,
+      "cases": 96,
+      "strict_deferral": 0,
+      "deferral_admissible": 0,
+      "strict_full_modification": 96
+    },
+    {
+      "frontier": "open",
+      "horizon": 2,
+      "cases": 96,
+      "strict_deferral": 62,
+      "deferral_admissible": 62,
+      "strict_full_modification": 34
+    },
+    {
+      "frontier": "open",
+      "horizon": 4,
+      "cases": 96,
+      "strict_deferral": 68,
+      "deferral_admissible": 68,
+      "strict_full_modification": 28
+    },
+    {
+      "frontier": "open",
+      "horizon": 8,
+      "cases": 96,
+      "strict_deferral": 68,
+      "deferral_admissible": 68,
+      "strict_full_modification": 28
+    },
+    {
+      "frontier": "open",
+      "horizon": 12,
+      "cases": 96,
+      "strict_deferral": 68,
+      "deferral_admissible": 68,
+      "strict_full_modification": 28
+    }
+  ],
+  "heatmap_h8_p09": [
+    {
+      "gamma": "1/4",
+      "choices": [
+        "1",
+        "1",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    },
+    {
+      "gamma": "1/2",
+      "choices": [
+        "1",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    },
+    {
+      "gamma": "9/10",
+      "choices": [
+        "1",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    },
+    {
+      "gamma": "1",
+      "choices": [
+        "1",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    }
+  ],
+  "limitations": [
+    "No hosted model, learned agent, or physical evaluator is tested.",
+    "The finite return is supplied by the researcher.",
+    "Gamma and p enter only through their product in this model.",
+    "The partial-allocation result depends on linear capture and exponential frontier growth.",
+    "Finite calculations do not prove permanent deferral."
+  ],
+  "csv_sha256": "df6aac143155119cc244a94c5caf4094f8f5643bd4cc55ccc1683f6312d609b2",
+  "script_sha256": "74ee4771cfa4b3c5f36724c4ed66166709a53d6b969891bc3bb7c94d3e6fe618"
+}

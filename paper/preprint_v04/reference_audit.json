@@ -1,0 +1,3574 @@
+{
+  "everitt2016": {
+    "doi": "10.1007/978-3-319-41649-6_1",
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            8,
+            28
+          ]
+        ],
+        "date-time": "2026-08-28T14:50:11Z",
+        "timestamp": 1787928611544,
+        "version": "build-2784847793"
+      },
+      "publisher-location": "Cham",
+      "reference-count": 23,
+      "publisher": "Springer International Publishing",
+      "isbn-type": [
+        {
+          "value": "9783319416489",
+          "type": "print"
+        },
+        {
+          "value": "9783319416496",
+          "type": "electronic"
+        }
+      ],
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2016,
+                1,
+                1
+              ]
+            ],
+            "date-time": "2016-01-01T00:00:00Z",
+            "timestamp": 1451606400000
+          },
+          "content-version": "unspecified",
+          "delay-in-days": 0,
+          "URL": "http://www.springer.com/tdm"
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [],
+      "published-print": {
+        "date-parts": [
+          [
+            2016
+          ]
+        ]
+      },
+      "DOI": "10.1007/978-3-319-41649-6_1",
+      "type": "book-chapter",
+      "created": {
+        "date-parts": [
+          [
+            2016,
+            6,
+            25
+          ]
+        ],
+        "date-time": "2016-06-25T23:40:33Z",
+        "timestamp": 1466898033000
+      },
+      "page": "1-11",
+      "source": "Crossref",
+      "is-referenced-by-count": 11,
+      "title": [
+        "Self-Modification of Policy and Utility Function in Rational Agents"
+      ],
+      "prefix": "10.1007",
+      "author": [
+        {
+          "given": "Tom",
+          "family": "Everitt",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Daniel",
+          "family": "Filan",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Mayank",
+          "family": "Daswani",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Marcus",
+          "family": "Hutter",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "297",
+      "published-online": {
+        "date-parts": [
+          [
+            2016,
+            6,
+            25
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "1_CR1",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Bird, J., Layzell, P.: The evolved radio and its implications for modelling the evolution of novel sensors. In: CEC-02, pp. 1836–1841 (2002)",
+          "DOI": "10.1109/CEC.2002.1004522"
+        },
+        {
+          "key": "1_CR2",
+          "volume-title": "Superintelligence: Paths, Dangers Strategies",
+          "author": "N Bostrom",
+          "year": "2014",
+          "unstructured": "Bostrom, N.: Superintelligence: Paths, Dangers Strategies. Oxford University Press, Oxford (2014)"
+        },
+        {
+          "key": "1_CR3",
+          "series-title": "Lecture Notes in Computer Science",
+          "doi-asserted-by": "crossref",
+          "first-page": "309",
+          "DOI": "10.1007/978-3-642-22887-2_35",
+          "volume-title": "Artificial General Intelligence",
+          "author": "D Dewey",
+          "year": "2011",
+          "unstructured": "Dewey, D.: Learning what to value. In: Schmidhuber, J., Thórisson, K.R., Looks, M. (eds.) AGI 2011. LNCS, vol. 6830, pp. 309–314. Springer, Heidelberg (2011)"
+        },
+        {
+          "key": "1_CR4",
+          "unstructured": "Everitt, T., Filan, D., Daswani, M., Hutter, M.: Self-modification of policy and utility function in rational agents. Technical report (2016). arXiv:1605.03142"
+        },
+        {
+          "key": "1_CR5",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Everitt, T., Hutter, M.: Avoiding wireheading with value reinforcement learning. In: Steunebrink, B., et al. (eds.) AGI 2016, LNAI 9782, pp. 12–22 (2016)",
+          "DOI": "10.1007/978-3-319-41649-6_2"
+        },
+        {
+          "issue": "1",
+          "key": "1_CR6",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.2478/v10229-011-0013-5",
+          "volume": "3",
+          "author": "B Hibbard",
+          "year": "2012",
+          "unstructured": "Hibbard, B.: Model-based utility functions. J. Artif. Gen. Intell. Res. 3(1), 1–24 (2012)",
+          "journal-title": "J. Artif. Gen. Intell. Res."
+        },
+        {
+          "key": "1_CR7",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1007/b138233",
+          "volume-title": "Universal Artificial Intelligence",
+          "author": "M Hutter",
+          "year": "2005",
+          "unstructured": "Hutter, M.: Universal Artificial Intelligence. Springer, Heidelberg (2005)"
+        },
+        {
+          "key": "1_CR8",
+          "series-title": "Lecture Notes in Computer Science",
+          "doi-asserted-by": "crossref",
+          "first-page": "185",
+          "DOI": "10.1007/978-3-319-11662-4_14",
+          "volume-title": "Algorithmic Learning Theory",
+          "author": "M Hutter",
+          "year": "2014",
+          "unstructured": "Hutter, M.: Extreme state aggregation beyond MDPs. In: Auer, P., Clark, A., Zeugmann, T., Zilles, S. (eds.) ALT 2014. LNCS, vol. 8776, pp. 185–199. Springer, Heidelberg (2014)"
+        },
+        {
+          "issue": "1–2",
+          "key": "1_CR9",
+          "doi-asserted-by": "crossref",
+          "first-page": "99",
+          "DOI": "10.1016/S0004-3702(98)00023-X",
+          "volume": "101",
+          "author": "LP Kaelbling",
+          "year": "1998",
+          "unstructured": "Kaelbling, L.P., Littman, M.L., Cassandra, A.R.: Planning and acting in partially observable stochastic domains. Artif. Intell. 101(1–2), 99–134 (1998)",
+          "journal-title": "Artif. Intell."
+        },
+        {
+          "issue": "4",
+          "key": "1_CR10",
+          "doi-asserted-by": "crossref",
+          "first-page": "391",
+          "DOI": "10.1007/s11023-007-9079-x",
+          "volume": "17",
+          "author": "S Legg",
+          "year": "2007",
+          "unstructured": "Legg, S., Hutter, M.: Universal intelligence: a definition of machine intelligence. Mind. Mach. 17(4), 391–444 (2007)",
+          "journal-title": "Mind. Mach."
+        },
+        {
+          "key": "1_CR11",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Leike, J., Lattimore, T., Orseau, L., Hutter, M.: Thompson sampling is asymptotically optimal in general environments. In: UAI-16 (2016)",
+          "DOI": "10.24963/ijcai.2017/688"
+        },
+        {
+          "issue": "7540",
+          "key": "1_CR12",
+          "doi-asserted-by": "crossref",
+          "first-page": "529",
+          "DOI": "10.1038/nature14236",
+          "volume": "518",
+          "author": "V Mnih",
+          "year": "2015",
+          "unstructured": "Mnih, V., Kavukcuoglu, K., Silver, D., et al.: Human-level control through deep reinforcement learning. Nature 518(7540), 529–533 (2015)",
+          "journal-title": "Nature"
+        },
+        {
+          "key": "1_CR13",
+          "unstructured": "Omohundro, S.M.: The basic AI drives. In: AGI-08, pp. 483–493. IOS Press (2008)"
+        },
+        {
+          "key": "1_CR14",
+          "doi-asserted-by": "crossref",
+          "first-page": "127",
+          "DOI": "10.1016/j.tcs.2013.09.025",
+          "volume": "519",
+          "author": "L Orseau",
+          "year": "2014",
+          "unstructured": "Orseau, L.: Universal knowledge-seeking agents. TCS 519, 127–139 (2014)",
+          "journal-title": "TCS"
+        },
+        {
+          "key": "1_CR15",
+          "series-title": "Lecture Notes in Computer Science",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1007/978-3-642-22887-2_1",
+          "volume-title": "Artificial General Intelligence",
+          "author": "L Orseau",
+          "year": "2011",
+          "unstructured": "Orseau, L., Ring, M.: Self-modification and mortality in artificial agents. In: Schmidhuber, J., Thórisson, K.R., Looks, M. (eds.) AGI 2011. LNCS, vol. 6830, pp. 1–10. Springer, Heidelberg (2011)"
+        },
+        {
+          "key": "1_CR16",
+          "series-title": "Lecture Notes in Computer Science",
+          "doi-asserted-by": "crossref",
+          "first-page": "209",
+          "DOI": "10.1007/978-3-642-35506-6_22",
+          "volume-title": "Artificial General Intelligence",
+          "author": "L Orseau",
+          "year": "2012",
+          "unstructured": "Orseau, L., Ring, M.: Space-time embedded intelligence. In: Bach, J., Goertzel, B., Iklé, M. (eds.) AGI 2012. LNCS, vol. 7716, pp. 209–218. Springer, Heidelberg (2012)"
+        },
+        {
+          "key": "1_CR17",
+          "series-title": "Lecture Notes in Computer Science",
+          "doi-asserted-by": "crossref",
+          "first-page": "11",
+          "DOI": "10.1007/978-3-642-22887-2_2",
+          "volume-title": "Artificial General Intelligence",
+          "author": "M Ring",
+          "year": "2011",
+          "unstructured": "Ring, M., Orseau, L.: Delusion, survival, and intelligent agents. In: Schmidhuber, J., Thórisson, K.R., Looks, M. (eds.) AGI 2011. LNCS, vol. 6830, pp. 11–20. Springer, Heidelberg (2011)"
+        },
+        {
+          "key": "1_CR18",
+          "doi-asserted-by": "crossref",
+          "first-page": "199",
+          "DOI": "10.1007/978-3-540-68677-4_7",
+          "volume-title": "Artificial General Intelligence",
+          "author": "J Schmidhuber",
+          "year": "2007",
+          "unstructured": "Schmidhuber, J.: Gödel machines: fully self-referential optimal universal self-improvers. In: Goertzel, B., Pennachin, C. (eds.) AGI-07, pp. 199–226. Springer, Heidelberg (2007)"
+        },
+        {
+          "issue": "7587",
+          "key": "1_CR19",
+          "doi-asserted-by": "crossref",
+          "first-page": "484",
+          "DOI": "10.1038/nature16961",
+          "volume": "529",
+          "author": "D Silver",
+          "year": "2016",
+          "unstructured": "Silver, D., Huang, A., Maddison, C.J., et al.: Mastering the game of go with deep neural networks and tree search. Nature 529(7587), 484–489 (2016)",
+          "journal-title": "Nature"
+        },
+        {
+          "key": "1_CR20",
+          "unstructured": "Soares, N.: The value learning problem. Technical report MIRI (2015)"
+        },
+        {
+          "key": "1_CR21",
+          "unstructured": "Soares, N., Fallenstein, B., Yudkowsky, E., Armstrong, S.: Corrigibility. In: AAAI Workshop on AI and Ethics, pp. 74–82 (2015)"
+        },
+        {
+          "key": "1_CR22",
+          "volume-title": "Reinforcement Learning: An Introduction",
+          "author": "R Sutton",
+          "year": "1998",
+          "unstructured": "Sutton, R., Barto, A.: Reinforcement Learning: An Introduction. MIT Press, Cambridge (1998)"
+        },
+        {
+          "key": "1_CR23",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1201/b18612",
+          "volume-title": "Artificial Super Intelligence: A Futuristic Approach",
+          "author": "RV Yampolskiy",
+          "year": "2015",
+          "unstructured": "Yampolskiy, R.V.: Artificial Super Intelligence: A Futuristic Approach. Chapman and Hall/CRC, Boca Raton (2015)"
+        }
+      ],
+      "container-title": [
+        "Lecture Notes in Computer Science",
+        "Artificial General Intelligence"
+      ],
+      "original-title": [],
+      "link": [
+        {
+          "URL": "http://link.springer.com/content/pdf/10.1007/978-3-319-41649-6_1",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2019,
+            9,
+            10
+          ]
+        ],
+        "date-time": "2019-09-10T06:07:42Z",
+        "timestamp": 1568095662000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "http://link.springer.com/10.1007/978-3-319-41649-6_1"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2016
+          ]
+        ]
+      },
+      "ISBN": [
+        "9783319416489",
+        "9783319416496"
+      ],
+      "references-count": 23,
+      "URL": "https://doi.org/10.1007/978-3-319-41649-6_1",
+      "relation": {},
+      "ISSN": [
+        "0302-9743",
+        "1611-3349"
+      ],
+      "issn-type": [
+        {
+          "value": "0302-9743",
+          "type": "print"
+        },
+        {
+          "value": "1611-3349",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2016
+          ]
+        ]
+      }
+    },
+    "primary_source": "https://arxiv.org/abs/1605.03142",
+    "bibtex_retrieved": true,
+    "retrieved_date": "2026-10-18"
+  },
+  "everitthutter2016": {
+    "doi": "10.1007/978-3-319-41649-6_2",
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            26
+          ]
+        ],
+        "date-time": "2026-09-26T05:15:48Z",
+        "timestamp": 1790399748610,
+        "version": "4.1.0"
+      },
+      "publisher-location": "Cham",
+      "reference-count": 19,
+      "publisher": "Springer International Publishing",
+      "isbn-type": [
+        {
+          "value": "9783319416489",
+          "type": "print"
+        },
+        {
+          "value": "9783319416496",
+          "type": "electronic"
+        }
+      ],
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2016,
+                1,
+                1
+              ]
+            ],
+            "date-time": "2016-01-01T00:00:00Z",
+            "timestamp": 1451606400000
+          },
+          "content-version": "unspecified",
+          "delay-in-days": 0,
+          "URL": "http://www.springer.com/tdm"
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [],
+      "published-print": {
+        "date-parts": [
+          [
+            2016
+          ]
+        ]
+      },
+      "DOI": "10.1007/978-3-319-41649-6_2",
+      "type": "book-chapter",
+      "created": {
+        "date-parts": [
+          [
+            2016,
+            6,
+            25
+          ]
+        ],
+        "date-time": "2016-06-25T23:40:33Z",
+        "timestamp": 1466898033000
+      },
+      "page": "12-22",
+      "source": "Crossref",
+      "is-referenced-by-count": 13,
+      "title": [
+        "Avoiding Wireheading with Value Reinforcement Learning"
+      ],
+      "prefix": "10.1007",
+      "author": [
+        {
+          "given": "Tom",
+          "family": "Everitt",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Marcus",
+          "family": "Hutter",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "297",
+      "published-online": {
+        "date-parts": [
+          [
+            2016,
+            6,
+            25
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "2_CR1",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Abbeel, P., Ng, A.Y.: Apprenticeship learning via inverse reinforcement learning. In: ICML, pp. 1–8 (2004)",
+          "DOI": "10.1145/1015330.1015430"
+        },
+        {
+          "key": "2_CR2",
+          "unstructured": "Amin, K., Singh, S.: Towards resolving unidentifiability in inverse reinforcement learning (2016). http://arXiv.org/abs/1601.06569"
+        },
+        {
+          "key": "2_CR3",
+          "unstructured": "Armstrong, S.: Motivated value selection for artificial agents. In: Workshops at the Twenty-Ninth AAAI Conference on Artificial Intelligence, pp. 12–20 (2015)"
+        },
+        {
+          "key": "2_CR4",
+          "unstructured": "Bostrom, N.: Hail mary, value porosity, and utility diversification. Technical report, Oxford University (2014a)"
+        },
+        {
+          "key": "2_CR5",
+          "unstructured": "Bostrom, N.: Superintelligence: Paths, Dangers, Strategies. Oxford University Press, New York (2014b)"
+        },
+        {
+          "key": "2_CR6",
+          "series-title": "Lecture Notes in Computer Science",
+          "doi-asserted-by": "crossref",
+          "first-page": "309",
+          "DOI": "10.1007/978-3-642-22887-2_35",
+          "volume-title": "Artificial General Intelligence",
+          "author": "D Dewey",
+          "year": "2011",
+          "unstructured": "Dewey, D.: Learning what to value. In: Schmidhuber, J., Thórisson, K.R., Looks, M. (eds.) AGI 2011. LNCS, vol. 6830, pp. 309–314. Springer, Heidelberg (2011)"
+        },
+        {
+          "key": "2_CR7",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Evans, O., Stuhlmuller, A., Goodman, N.D.: Learning the preferences of ignorant, inconsistent agents. In: AAAI 2016 (2016)",
+          "DOI": "10.1609/aaai.v30i1.10010"
+        },
+        {
+          "key": "2_CR8",
+          "unstructured": "Everitt, T., Filan, D., Daswani, M., Hutter, M.: Self-modification of policy and utility function in rational agents. In: Steunebrink, B., et al. (eds.) AGI 2016. LNAI, vol. 9782, pp. 1–11. Springer, Heidelberg (2016). http://arXiv.org/abs/1605.03142"
+        },
+        {
+          "key": "2_CR9",
+          "unstructured": "Everitt, T., Hutter, M.: Avoiding wireheading with value reinforcement learning (2016). http://arXiv.org/abs/1605.03143"
+        },
+        {
+          "issue": "1",
+          "key": "2_CR10",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.2478/v10229-011-0013-5",
+          "volume": "3",
+          "author": "B Hibbard",
+          "year": "2012",
+          "unstructured": "Hibbard, B.: Model-based utility functions. J. Artif. General Intell. 3(1), 1–24 (2012)",
+          "journal-title": "J. Artif. General Intell."
+        },
+        {
+          "key": "2_CR11",
+          "unstructured": "Kurzweil, R.: The Singularity Is Near. Viking Press, New York (2005)"
+        },
+        {
+          "key": "2_CR12",
+          "unstructured": "Ng, A., Russell, S.: Algorithms for inverse reinforcement learning. In: ICML pp. 663–670 (2000)"
+        },
+        {
+          "key": "2_CR13",
+          "unstructured": "Nozick, R.: Anarchy, State, and Utopia. Basic Books, New York (1974)"
+        },
+        {
+          "key": "2_CR14",
+          "unstructured": "Omohundro, S.M.: The basic AI drives. In: AGI-08. vol. 171, pp. 483–493. IOS Press (2008)"
+        },
+        {
+          "key": "2_CR15",
+          "series-title": "Lecture Notes in Computer Science",
+          "doi-asserted-by": "crossref",
+          "first-page": "11",
+          "DOI": "10.1007/978-3-642-22887-2_2",
+          "volume-title": "Artificial General Intelligence",
+          "author": "M Ring",
+          "year": "2011",
+          "unstructured": "Ring, M., Orseau, L.: Delusion, survival, and intelligent agents. In: Schmidhuber, J., Thórisson, K.R., Looks, M. (eds.) AGI 2011. LNCS, vol. 6830, pp. 11–20. Springer, Heidelberg (2011)"
+        },
+        {
+          "key": "2_CR16",
+          "series-title": "Lecture Notes in Computer Science",
+          "doi-asserted-by": "crossref",
+          "first-page": "152",
+          "DOI": "10.1007/978-3-319-21365-1_16",
+          "volume-title": "Artificial General Intelligence",
+          "author": "CE Sezener",
+          "year": "2015",
+          "unstructured": "Sezener, C.E.: Inferring human values for safe AGI design. In: Bieger, J., Goertzel, B., Potapov, A. (eds.) AGI 2015. LNCS, vol. 9205, pp. 152–155. Springer, Heidelberg (2015)"
+        },
+        {
+          "key": "2_CR17",
+          "unstructured": "Sinnott-Armstrong, W.: Consequentialism. In: Zalta, E.N. (ed.) The Stanford Encyclopedia of Philosophy. Winter 2015 edn. (2015)"
+        },
+        {
+          "key": "2_CR18",
+          "unstructured": "Soares, N.: The value learning problem. Technical report, MIRI (2015)"
+        },
+        {
+          "key": "2_CR19",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Sutton, R.S., Barto, A.G.: Reinforcement Learning: An Introduction. MIT Press, Cambridge (1998)",
+          "DOI": "10.1109/TNN.1998.712192"
+        }
+      ],
+      "container-title": [
+        "Lecture Notes in Computer Science",
+        "Artificial General Intelligence"
+      ],
+      "original-title": [],
+      "link": [
+        {
+          "URL": "http://link.springer.com/content/pdf/10.1007/978-3-319-41649-6_2",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2022,
+            7,
+            2
+          ]
+        ],
+        "date-time": "2022-07-02T05:17:50Z",
+        "timestamp": 1656739070000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "http://link.springer.com/10.1007/978-3-319-41649-6_2"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2016
+          ]
+        ]
+      },
+      "ISBN": [
+        "9783319416489",
+        "9783319416496"
+      ],
+      "references-count": 19,
+      "URL": "https://doi.org/10.1007/978-3-319-41649-6_2",
+      "relation": {},
+      "ISSN": [
+        "0302-9743",
+        "1611-3349"
+      ],
+      "issn-type": [
+        {
+          "value": "0302-9743",
+          "type": "print"
+        },
+        {
+          "value": "1611-3349",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2016
+          ]
+        ]
+      }
+    },
+    "primary_source": "https://arxiv.org/abs/1605.03143",
+    "bibtex_retrieved": true,
+    "retrieved_date": "2026-10-18"
+  },
+  "everitt2021": {
+    "doi": "10.1007/s11229-021-03141-4",
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            1
+          ]
+        ],
+        "date-time": "2026-10-01T19:59:57Z",
+        "timestamp": 1790884797561,
+        "version": "4.1.0"
+      },
+      "reference-count": 64,
+      "publisher": "Springer Science and Business Media LLC",
+      "issue": "S27",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2021,
+                5,
+                19
+              ]
+            ],
+            "date-time": "2021-05-19T00:00:00Z",
+            "timestamp": 1621382400000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.springer.com/tdm"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2021,
+                5,
+                19
+              ]
+            ],
+            "date-time": "2021-05-19T00:00:00Z",
+            "timestamp": 1621382400000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://www.springer.com/tdm"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "link.springer.com"
+        ],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "Synthese"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2021,
+            11
+          ]
+        ]
+      },
+      "DOI": "10.1007/s11229-021-03141-4",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2021,
+            5,
+            19
+          ]
+        ],
+        "date-time": "2021-05-19T16:06:06Z",
+        "timestamp": 1621440366000
+      },
+      "page": "6435-6467",
+      "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 48,
+      "title": [
+        "Reward tampering problems and solutions in reinforcement learning: a causal influence diagram perspective"
+      ],
+      "prefix": "10.1007",
+      "volume": "198",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0003-1210-9866",
+          "authenticated-orcid": false,
+          "given": "Tom",
+          "family": "Everitt",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Marcus",
+          "family": "Hutter",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Ramana",
+          "family": "Kumar",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Victoria",
+          "family": "Krakovna",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "297",
+      "published-online": {
+        "date-parts": [
+          [
+            2021,
+            5,
+            19
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "3141_CR1",
+          "unstructured": "Amodei, D., Olah, C., Steinhardt, J., Christiano, P., Schulman, J., & Mane, D. (2016). Concrete problems in AI Safety. arXiv: 1606.06565."
+        },
+        {
+          "key": "3141_CR2",
+          "unstructured": "Armstrong, S., & O’Rourke, X. (2017). ‘Indifference’ methods for managing agent rewards. arXiv: 1712.06365."
+        },
+        {
+          "key": "3141_CR3",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Armstrong, S., Orseau, L., Leike, J., & Legg, S. (2020). Pitfalls in learning a reward function online. In IJCAI. arXiv: 2004.13654.",
+          "DOI": "10.24963/ijcai.2020/221"
+        },
+        {
+          "key": "3141_CR4",
+          "unstructured": "Balke, A., & Pearl, J. (1994). Probabilistic evaluation of counterfactual queries. In AAAI (pp. 230–237)."
+        },
+        {
+          "key": "3141_CR5",
+          "unstructured": "Bostrom, N. (2014). Superintelligence: Paths, dangers, strategies. Oxford University Press."
+        },
+        {
+          "key": "3141_CR6",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Carey, R. (2018). Incorrigibility in the CIRL framework. In AAAI/ACM conference on artificial intelligence, ethics and society. Machine Intelligence Research Institute.",
+          "DOI": "10.1145/3278721.3278750"
+        },
+        {
+          "key": "3141_CR7",
+          "unstructured": "Christiano, P., Leike, J., Brown, T. B., Martic, M., Legg, S., Amodei, D. (2017). Deep reinforcement learning from human preferences. In Advances in neural information processing systems (pp. 4302–4310). arXiv: 1706.03741."
+        },
+        {
+          "key": "3141_CR8",
+          "unstructured": "Christiano, P., Shlegeris, B., & Amodei, D. (2018). Supervising strong learners by amplifying weak experts. arXiv: 1810.08575."
+        },
+        {
+          "key": "3141_CR9",
+          "unstructured": "Demski, A., & Garrabrant, S. (2019). Embedded agency. arXiv: 1902.09469."
+        },
+        {
+          "key": "3141_CR10",
+          "unstructured": "Dennett, D. C. (2017). From bacteria to bach and back: The evolution of minds (p. 0393355500). W. W. Norton & Company."
+        },
+        {
+          "key": "3141_CR11",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Dewey, D. (2011). Learning what to Value. In Artificial general intelligence (Vol. 6830, pp. 309–314). isbn: 978-3-642-22886-5. arXiv: 1402.5379. http://www.springerlink.com/index/10.1007/978-3-642-22887-2.",
+          "DOI": "10.1007/978-3-642-22887-2_35"
+        },
+        {
+          "key": "3141_CR12",
+          "unstructured": "Everitt, T. (2018). Towards safe artificial general intelligence. PhD thesis. Austrailan National University. http://hdl.handle.net/1885/164227."
+        },
+        {
+          "key": "3141_CR13",
+          "unstructured": "Everitt, T., Carey, R., Langlois, E., Ortega, P. A. & Legg, S. (2021). Agent incentives: A causal perspective. In AAAI. arXiv: 2102.01685."
+        },
+        {
+          "key": "3141_CR14",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Everitt, T., Filan, D., Daswani, M., & Hutter, M. (2016). Self-modification of policy and utility function in rational agents. In Artificial general intelligence (pp. 1–11). ISBN: 9783319416489. arXiv: 1605.03142.",
+          "DOI": "10.1007/978-3-319-41649-6_1"
+        },
+        {
+          "key": "3141_CR15",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Everitt, T., Krakovna, V., Orseau, L., Hutter, M., & Legg, S. (2017). Reinforcement learning with corrupted reward signal. In IJCAI international joint conference on artificial intelligence (pp. 4705–4713). arXiv: 1705.08417.",
+          "DOI": "10.24963/ijcai.2017/656"
+        },
+        {
+          "key": "3141_CR16",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Everitt, T., Lea, G., & Hutter, M. (2018). AGI safety literature review. In International joint conference on artificial intelligence (IJCAI). arXiv: 1805.01109.",
+          "DOI": "10.24963/ijcai.2018/768"
+        },
+        {
+          "key": "3141_CR17",
+          "unstructured": "Everitt, T., Ortega, P. A., Barnes, E., & Legg, S. (2019). Understanding agent incentives using causal influence diagrams. Part I: Single action settings. arXiv:1902.09980."
+        },
+        {
+          "key": "3141_CR18",
+          "unstructured": "Freedman, R., Shah, R., & Dragan, A. (2020). Choice set misspecification in reward inference. In IJCAI AI safety workshop."
+        },
+        {
+          "key": "3141_CR19",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Gabriel, I. (2020). Artificial intelligence, values and alignment. In Minds and machines (Vol. 30, pp. 411–437). arXiv: 2001.09768.",
+          "DOI": "10.1007/s11023-020-09539-2"
+        },
+        {
+          "key": "3141_CR20",
+          "unstructured": "Hadfield-Menell, D., Dragan, A., Abbeel, P., & Russell, S. J. (2016). Cooperative inverse reinforcement learning. In Advances in neural information processing systems (pp. 3909–3917). arXiv: 1606.03137."
+        },
+        {
+          "key": "3141_CR21",
+          "unstructured": "Hadfield-Menell, D., Milli, S., Abbeel, P., Russell, S. J., & Dragan, A. (2017). Inverse reward design. In Advances in neural information processing systems (pp. 6768–6777). arXiv: 1711.02827."
+        },
+        {
+          "issue": "1",
+          "key": "3141_CR22",
+          "doi-asserted-by": "publisher",
+          "first-page": "1",
+          "DOI": "10.2478/v10229-011-0013-5",
+          "volume": "3",
+          "author": "Bill Hibbard",
+          "year": "2012",
+          "unstructured": "Hibbard, Bill. (2012). Model-based utility functions. Journal of Artificial General Intelligence, 3(1), 1–24. arXiv: 1111.3934.",
+          "journal-title": "Journal of Artificial General Intelligence"
+        },
+        {
+          "key": "3141_CR23",
+          "unstructured": "Howard, R. A., & Matheson, J. E. (1984). Influence diagrams. In Readings on the principles and applications of decision analysis (pp. 721–762)."
+        },
+        {
+          "key": "3141_CR24",
+          "unstructured": "Hubinger, E., van Merwijk, C., Mikulik, V., Skalse, J., & Garrabrant, S. (2019). Risks from Learned Optimization. In Advanced machine learning systems. arXiv: 1906.01820."
+        },
+        {
+          "key": "3141_CR25",
+          "unstructured": "Jeon, H. J., Milli, S., & Dragan, A. D. (2020). Reward-rational (implicit) choice: A unifying formalism for reward learning. arXiv: 2002.04833."
+        },
+        {
+          "issue": "1–2",
+          "key": "3141_CR26",
+          "doi-asserted-by": "publisher",
+          "first-page": "99",
+          "DOI": "10.1016/S0004-3702(98)00023-X",
+          "volume": "101",
+          "author": "Leslie Pack Kaelbling",
+          "year": "1998",
+          "unstructured": "Kaelbling, Leslie Pack, Littman, Michael L., & Cassandra, Anthony R. (1998). Planning and acting in partially observable stochastic domains. Artificial Intelligence, 101(1–2), 99–134.",
+          "journal-title": "Artificial Intelligence"
+        },
+        {
+          "key": "3141_CR27",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Knox, W. B., & Stone, P. (2009). Interactively shaping agents via human reinforcement. In Proceedings of the fifth international conference on Knowledge capture —K-CAP ’09 September (p. 9).",
+          "DOI": "10.1145/1597735.1597738"
+        },
+        {
+          "issue": "1",
+          "key": "3141_CR28",
+          "doi-asserted-by": "publisher",
+          "first-page": "181",
+          "DOI": "10.1016/S0899-8256(02)00544-4",
+          "volume": "45",
+          "author": "Daphne Koller",
+          "year": "2003",
+          "unstructured": "Koller, Daphne, & Milch, Brian. (2003). Multi-agent influence diagrams for representing and solving games. Games and Economic Behavior, 45(1), 181–221.",
+          "journal-title": "Games and Economic Behavior"
+        },
+        {
+          "key": "3141_CR29",
+          "unstructured": "Krakovna, V., Uesato, J., Mikulik, V., Rahtz, M., Everitt, T., Kumar, R., Kenton, Z., Leike, J., & Legg, S. (2020). Specification gaming: The flip side of AI ingenuity. https://deepmind.com/blog/article/Specification-gaming-the-flip-side-of-AI-ingenuity (visited on 07/16/2020)."
+        },
+        {
+          "key": "3141_CR30",
+          "unstructured": "Kumar, R., Uesato, J., Ngo, R., Everitt, T., Krakovna, V., & Legg, S. (2020). REALab: An embedded perspective on tampering.arXiv: 2011.08820."
+        },
+        {
+          "key": "3141_CR31",
+          "unstructured": "Langlois, E., & Everitt, T. (2021). How RL agents behave when their actions are modified. In AAAI. arXiv: 2102.07716."
+        },
+        {
+          "key": "3141_CR32",
+          "doi-asserted-by": "publisher",
+          "first-page": "140",
+          "DOI": "10.1016/j.tcs.2013.09.022",
+          "volume": "519",
+          "author": "T Lattimore",
+          "year": "2014",
+          "unstructured": "Lattimore, T., & Hutter, M. (2014). General time consistent discounting. Theoretical Computer Science, 519, 140–154. arXiv: 1107.5528.",
+          "journal-title": "Theoretical Computer Science"
+        },
+        {
+          "issue": "9",
+          "key": "3141_CR33",
+          "doi-asserted-by": "publisher",
+          "first-page": "1235",
+          "DOI": "10.1287/mnsc.47.9.1235.9779",
+          "volume": "47",
+          "author": "SL Lauritzen",
+          "year": "2001",
+          "unstructured": "Lauritzen, S. L., & Nilsson, D. (2001). Representing and solving decision problems with limited information. Management Science, 47(9), 1235–1251.",
+          "journal-title": "Management Science"
+        },
+        {
+          "key": "3141_CR34",
+          "unstructured": "LaVictoire, P., Fallenstein, B., Yudkowsky, E. S., Barasz, M., Christiano, P., & Herreshoff, M. (2014). Program equilibrium in the prisoner’s dilemma via Löb’s Theorem”. In AAAI workshop on multiagent interaction without prior coordination."
+        },
+        {
+          "key": "3141_CR35",
+          "unstructured": "Lehman, J., Clune, J., Misevic, D., Adami, C., Altenberg, L., Beaulieu, J., Bentley, P. J., Bernard, S., Beslon, G., Bryson, D. M., Chrabaszcz, P., Cheney, N., Cully, A., Doncieux, S., Dyer, F. C., Ellefsen, K. O., Feldt, R., Fischer, S., Forrest, S., ..., Yosinski, J. (2018). The surprising creativity of digital evolution: A collection of anecdotes from the evolutionary computation and artificial life research communities. arXiv: 1803.03453."
+        },
+        {
+          "key": "3141_CR36",
+          "unstructured": "Leike, J., Krueger, D., Everitt, T., Martic, M., Maini, V., & Legg, S. (2018). Scalable agent alignment via reward modeling: A research direction. arXiv: 1811.07871."
+        },
+        {
+          "key": "3141_CR37",
+          "unstructured": "Leike, J., Martic, M., Krakovna, V., Ortega, P. A., Everitt, T., Lefrancq, A., Orseau, L., & Legg, S. (2017). AI safety gridworlds. arXiv: 1711.09883."
+        },
+        {
+          "key": "3141_CR38",
+          "unstructured": "Levine, S., Kumar, A., Tucker, G., & Fu, J. (2020). Offline reinforcement learning: Tutorial, review, and perspectives on open problems. arXiv: 2005.01643."
+        },
+        {
+          "key": "3141_CR39",
+          "unstructured": "Masterjun. (2014). SNES Super Mario World (USA) “arbitrary code execution”.http://tasvideos.org/2513M.html (visited on 01/23/2019)."
+        },
+        {
+          "key": "3141_CR40",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Milli, S., Belli, L., & Hardt, M. (2020). From optimizing engagement to measuring value. In FAccT. arXiv: 2008.12623.",
+          "DOI": "10.1145/3442188.3445933"
+        },
+        {
+          "key": "3141_CR41",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Milli, S., Hadfield-Menell, D., Dragan, A., & Russell, S. J. (2017). Should robots be obedient? In IJCAI (pp. 4754–4760). ISBN: 9780999241103. arXiv: 1705.09990.",
+          "DOI": "10.24963/ijcai.2017/662"
+        },
+        {
+          "key": "3141_CR42",
+          "unstructured": "Ng, A. Y. & Russell, S. J. (2000). Algorithms for inverse reinforcement learning. In Proceedings of the seventeenth international conference on machine learning (pp. 663–670)."
+        },
+        {
+          "issue": "6",
+          "key": "3141_CR43",
+          "doi-asserted-by": "publisher",
+          "first-page": "419",
+          "DOI": "10.1037/h0058775",
+          "volume": "47",
+          "author": "J Olds",
+          "year": "1954",
+          "unstructured": "Olds, J., & Milner, P. (1954). Positive reinforcement produced by electrical stimulation of septal area and other regions of rat brain. Journal of Comparative and Physiological Psychology, 47(6), 419–427.",
+          "journal-title": "Journal of Comparative and Physiological Psychology"
+        },
+        {
+          "key": "3141_CR44",
+          "unstructured": "Omohundro, S. M. (2008). The basic AI drives. In P. Wang, B. Goertzel, & S. Franklin (Eds.)Artificial general intelligence (Vol. 171, pp. 483–493). IOS Press."
+        },
+        {
+          "key": "3141_CR45",
+          "unstructured": "Orseau, L. & Armstrong, S. (2016). Safely interruptible agents. In 32nd conference on uncertainty in artificial intelligence."
+        },
+        {
+          "key": "3141_CR46",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Orseau, L. & Ring, M. (2011). Self-modification and mortality in artificial agents. In Artificial general intelligence (Vol. 6830, pp. 1–10)",
+          "DOI": "10.1007/978-3-642-22887-2_1"
+        },
+        {
+          "key": "3141_CR47",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Pearl, J. (2009). Causality: Models, reasoning, and inference (2nd edn). Cambridge University Press. ISBN: 9780521895606.",
+          "DOI": "10.1017/CBO9780511803161"
+        },
+        {
+          "key": "3141_CR48",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Petersen, S. (2021). Machines learning values. In Ethics of artificial intelligence. Oxford University Press.",
+          "DOI": "10.1093/oso/9780190905033.003.0015"
+        },
+        {
+          "key": "3141_CR49",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Portenoy, R. K, Jarden, J. O., Sidtis, J. J., Lipton, R. B., Foley, K. M., & Rottenberg, D. A. (1986). Compulsive thalamic self-stimulation: A case with metabolic, electrophysiologic and behavioral correlates. In Pain. 27.3.",
+          "DOI": "10.1016/0304-3959(86)90155-7"
+        },
+        {
+          "key": "3141_CR50",
+          "unstructured": "Reddy, S., Dragan, A. D., Levine, S., Legg, S., & Leike, J. (2020). Learning human objectives by evaluating hypothetical behavior. In ICML. arXiv: 1912.05652."
+        },
+        {
+          "key": "3141_CR51",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Ring, M., & Orseau, L. (2011). Delusion, survival, and intelligent agents. In Artificial general intelligence (pp. 1–11). Springer.",
+          "DOI": "10.1007/978-3-642-22887-2_2"
+        },
+        {
+          "key": "3141_CR52",
+          "unstructured": "Russell, S. J (2019). Stuart J. Russell on filter bubbles and the future of artificial intelligence. https://www.youtube.com/watch?v=ZkV7anCPfaY (visited on 06/15/2020)."
+        },
+        {
+          "key": "3141_CR53",
+          "unstructured": "Schmidhuber, J. (2007). Gödel machines: Self-referential universal problem solvers making provably optimal self-improvements. In Artificial general intelligence. Springer. arXiv: 0309048 [cs]."
+        },
+        {
+          "key": "3141_CR54",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Schrittwieser, J., Antonoglou, I., Hubert, T., Simonyan, K., Sifre, L., Schmitt, S., Guez, A., Lockhart, E., Hassabis, D., Graepel, T., Lillicrap, T., & Silver, D. (2019). Mastering atari, go, chess and shogi by planning with a learned model.arXiv: 1911.08265.",
+          "DOI": "10.1038/s41586-020-03051-4"
+        },
+        {
+          "key": "3141_CR55",
+          "unstructured": "Shah, R., Krasheninnikov, D., Alexander, J., Abbeel, P., & Dragan, A. D. (2019). Preferences implicit in the state of the world. In 7th international conference on learning representations, ICLR. arXiv: 1902.04198."
+        },
+        {
+          "key": "3141_CR56",
+          "unstructured": "Shpitser, I. & Pearl , J. (2007). What counterfactuals can be tested. In Proceedings of the 23rd conference on uncertainty in artificial intelligence (pp. 352–359)."
+        },
+        {
+          "key": "3141_CR57",
+          "first-page": "1941",
+          "volume": "9",
+          "author": "I Shpitser",
+          "year": "2008",
+          "unstructured": "Shpitser, I., & Pearl, J. (2008). Complete identification methods for the causal hierarchy. Journal of Machine Learning Research, 9, 1941–1979.",
+          "journal-title": "Journal of Machine Learning Research"
+        },
+        {
+          "key": "3141_CR58",
+          "unstructured": "Soares, N., Fallenstein, B., Yudkowsky, E. S. & Armstrong, S. (2015). Corrigibility. In AAAI workshop on AI and ethics (pp. 74–82)."
+        },
+        {
+          "key": "3141_CR59",
+          "unstructured": "Sutton, R. S. & Barto , A. G. (2018). Reinforcement learning: An introduction (2nd edn). MIT Press. ISBN: 9780262039246."
+        },
+        {
+          "key": "3141_CR60",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Turner, A. M., Hadfield-Menell, D., & Tadepalli, P. (2020). Conservative agency via attainable utility preservation. In AI, ethics, and society. arXiv: 1902.09725.",
+          "DOI": "10.1145/3375627.3375851"
+        },
+        {
+          "key": "3141_CR61",
+          "unstructured": "Uesato, J., Kumar, R., Krakovna, V., Everitt, T., Ngo, R., Legg, S. (2020). Avoiding tampering incentives in deep RL via decoupled approval. arXiv: 2011.08827."
+        },
+        {
+          "key": "3141_CR62",
+          "unstructured": "Vaughanbell. (2008). Erotic self-stimulation and brain implants. https://mindhacks.com/2008/09/16/erotic-self-stimulation-and-brain-implants/ (visited on 02/08/2018)."
+        },
+        {
+          "key": "3141_CR63",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Yampolskiy, R. V. (2015). Artificial superintelligence: A futuristic approach (p. 227). Chapman and Hall/CRC. ISBN: 978-1482234435.",
+          "DOI": "10.1201/b18612"
+        },
+        {
+          "key": "3141_CR64",
+          "unstructured": "Yudkowsky, E. S. (2008). Hard takeoff. http://lesswrong.com/lw/wf/hard%7B%5C%7Dtakeoff/ (visited on 01/12/2018)."
+        }
+      ],
+      "container-title": [
+        "Synthese"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://link.springer.com/content/pdf/10.1007/s11229-021-03141-4.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://link.springer.com/article/10.1007/s11229-021-03141-4/fulltext.html",
+          "content-type": "text/html",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://link.springer.com/content/pdf/10.1007/s11229-021-03141-4.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2021,
+            11,
+            11
+          ]
+        ],
+        "date-time": "2021-11-11T11:38:00Z",
+        "timestamp": 1636630680000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://link.springer.com/10.1007/s11229-021-03141-4"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2021,
+            5,
+            19
+          ]
+        ]
+      },
+      "references-count": 64,
+      "journal-issue": {
+        "issue": "S27",
+        "published-print": {
+          "date-parts": [
+            [
+              2021,
+              11
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "3141"
+      ],
+      "URL": "https://doi.org/10.1007/s11229-021-03141-4",
+      "relation": {},
+      "ISSN": [
+        "0039-7857",
+        "1573-0964"
+      ],
+      "issn-type": [
+        {
+          "value": "0039-7857",
+          "type": "print"
+        },
+        {
+          "value": "1573-0964",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2021,
+            5,
+            19
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "31 March 2018",
+          "order": 1,
+          "name": "received",
+          "label": "Received",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "value": "26 March 2021",
+          "order": 2,
+          "name": "accepted",
+          "label": "Accepted",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "value": "19 May 2021",
+          "order": 3,
+          "name": "first_online",
+          "label": "First Online",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        }
+      ]
+    },
+    "primary_source": "https://arxiv.org/abs/1908.04734",
+    "bibtex_retrieved": true,
+    "retrieved_date": "2026-10-18"
+  },
+  "lin2014": {
+    "doi": "10.1007/s11229-014-0398-1",
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2024,
+            7,
+            27
+          ]
+        ],
+        "date-time": "2024-07-27T11:49:59Z",
+        "timestamp": 1722080999983
+      },
+      "reference-count": 9,
+      "publisher": "Springer Science and Business Media LLC",
+      "issue": "4",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2014,
+                2,
+                1
+              ]
+            ],
+            "date-time": "2014-02-01T00:00:00Z",
+            "timestamp": 1391212800000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "http://www.springer.com/tdm"
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "Synthese"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2014,
+            3
+          ]
+        ]
+      },
+      "DOI": "10.1007/s11229-014-0398-1",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2014,
+            1,
+            31
+          ]
+        ],
+        "date-time": "2014-01-31T22:15:21Z",
+        "timestamp": 1391206521000
+      },
+      "page": "661-670",
+      "source": "Crossref",
+      "is-referenced-by-count": 9,
+      "title": [
+        "On the regress problem of deciding how to decide"
+      ],
+      "prefix": "10.1007",
+      "volume": "191",
+      "author": [
+        {
+          "given": "Hanti",
+          "family": "Lin",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "member": "297",
+      "published-online": {
+        "date-parts": [
+          [
+            2014,
+            2,
+            1
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "398_CR1",
+          "first-page": "669",
+          "volume": "34",
+          "author": "J Conlisk",
+          "year": "1996",
+          "unstructured": "Conlisk, J. (1996). Why bounded rationality? Journal of Economic Literature, 34, 669–700.",
+          "journal-title": "Journal of Economic Literature"
+        },
+        {
+          "issue": "4",
+          "key": "398_CR2",
+          "first-page": "650",
+          "volume": "103",
+          "author": "G Gigerenzer",
+          "year": "1996",
+          "unstructured": "Gigerenzer, G., & Goldstein, D. (1996). Reasoning the fast and frugal way. Language and Linguistics Compass, 103(4), 650–669.",
+          "journal-title": "Language and Linguistics Compass"
+        },
+        {
+          "key": "398_CR3",
+          "volume-title": "Simple heuristics that make us smart",
+          "author": "G Gigerenzer",
+          "year": "1999",
+          "unstructured": "Gigerenzer, G., Todd, P., & the ABC group, (1999). Simple heuristics that make us smart. Oxford: University Press."
+        },
+        {
+          "key": "398_CR4",
+          "volume-title": "Lectures on macroeconomic planning: part 1. General aspects",
+          "author": "L Johansen",
+          "year": "1977",
+          "unstructured": "Johansen, L. (1977). Lectures on macroeconomic planning: part 1. General aspects. Amsterdam: North-Holland."
+        },
+        {
+          "key": "398_CR5",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Lin, H. (2013). Foundations of everyday practical reasoning. Journal of Philosophical Logic, 42(6), 831–862.",
+          "DOI": "10.1007/s10992-013-9296-0"
+        },
+        {
+          "key": "398_CR6",
+          "volume-title": "Choices: An introduction to decision theory",
+          "author": "MD Resnik",
+          "year": "1987",
+          "unstructured": "Resnik, M. D. (1987). Choices: An introduction to decision theory. Minneapolis: University of Minnesota Press."
+        },
+        {
+          "key": "398_CR7",
+          "volume-title": "The foundations of statistics",
+          "author": "LJ Savage",
+          "year": "1954",
+          "unstructured": "Savage, L. J. (1954). The foundations of statistics. New York: Wiley."
+        },
+        {
+          "key": "398_CR8",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Simon, H. (1955). A behavioral model of rational choice. The Quarterly Journal of Economics, 69(1), 99–118.",
+          "DOI": "10.2307/1884852"
+        },
+        {
+          "key": "398_CR9",
+          "first-page": "194",
+          "volume-title": "Foundations of decision theory",
+          "author": "H Smith",
+          "year": "1991",
+          "unstructured": "Smith, H. (1991). Deciding how to decide: Is there a regress problem? In M. Bacharach & S. Hurley (Eds.), Foundations of decision theory (pp. 194–219). Oxford: Basil Blackwell."
+        }
+      ],
+      "container-title": [
+        "Synthese"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "http://link.springer.com/content/pdf/10.1007/s11229-014-0398-1.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "http://link.springer.com/article/10.1007/s11229-014-0398-1/fulltext.html",
+          "content-type": "text/html",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "http://link.springer.com/content/pdf/10.1007/s11229-014-0398-1",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2019,
+            6,
+            1
+          ]
+        ],
+        "date-time": "2019-06-01T10:36:57Z",
+        "timestamp": 1559385417000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "http://link.springer.com/10.1007/s11229-014-0398-1"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2014,
+            2,
+            1
+          ]
+        ]
+      },
+      "references-count": 9,
+      "journal-issue": {
+        "issue": "4",
+        "published-print": {
+          "date-parts": [
+            [
+              2014,
+              3
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "398"
+      ],
+      "URL": "https://doi.org/10.1007/s11229-014-0398-1",
+      "relation": {},
+      "ISSN": [
+        "0039-7857",
+        "1573-0964"
+      ],
+      "issn-type": [
+        {
+          "value": "0039-7857",
+          "type": "print"
+        },
+        {
+          "value": "1573-0964",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2014,
+            2,
+            1
+          ]
+        ]
+      }
+    },
+    "primary_source": "https://openresearch-repository.anu.edu.au/items/f2e88e3d-a050-4221-8631-977c99c5330c",
+    "bibtex_retrieved": true,
+    "retrieved_date": "2026-10-18"
+  },
+  "trammell2021": {
+    "doi": "10.1007/s11229-019-02098-9",
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            29
+          ]
+        ],
+        "date-time": "2026-09-29T20:19:36Z",
+        "timestamp": 1790713176002,
+        "version": "4.1.0"
+      },
+      "reference-count": 24,
+      "publisher": "Springer Science and Business Media LLC",
+      "issue": "2",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2019,
+                2,
+                14
+              ]
+            ],
+            "date-time": "2019-02-14T00:00:00Z",
+            "timestamp": 1550102400000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2019,
+                2,
+                14
+              ]
+            ],
+            "date-time": "2019-02-14T00:00:00Z",
+            "timestamp": 1550102400000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        }
+      ],
+      "funder": [
+        {
+          "DOI": "10.13039/501100000769",
+          "name": "University of Oxford",
+          "doi-asserted-by": "crossref",
+          "id": [
+            {
+              "id": "10.13039/501100000769",
+              "id-type": "DOI",
+              "asserted-by": "crossref"
+            }
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "link.springer.com"
+        ],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "Synthese"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2021,
+            2
+          ]
+        ]
+      },
+      "abstract": "<jats:title>Abstract</jats:title><jats:p>When we are faced with a choice among acts, but are uncertain about the true state of the world, we may be uncertain about the acts’ “choiceworthiness”. Decision theories guide our choice by making normative claims about how we should respond to this uncertainty. If we are unsure which decision theory is correct, however, we may remain unsure of what we ought to do. Given this decision-theoretic uncertainty, meta-theories attempt to resolve the conflicts between our decision theories...but we may be unsure which meta-theory is correct as well. This reasoning can launch a regress of ever-higher-order uncertainty, which may leave one forever uncertain about what one ought to do. There is, fortunately, a class of circumstances under which this regress is not a problem. If one holds a cardinal understanding of subjective choiceworthiness, and accepts certain other criteria (which are too weak to specify any particular decision theory), one’s hierarchy of metanormative uncertainty ultimately converges to precise definitions of “subjective choiceworthiness” for any finite set of acts. If one allows the metanormative regress to extend to the transfinite ordinals, the convergence criteria can be weakened further. Finally, the structure of these results applies straightforwardly not just to decision-theoretic uncertainty, but also to other varieties of normative uncertainty, such as moral uncertainty.</jats:p>",
+      "DOI": "10.1007/s11229-019-02098-9",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2019,
+            2,
+            14
+          ]
+        ],
+        "date-time": "2019-02-14T14:14:12Z",
+        "timestamp": 1550153652000
+      },
+      "page": "1177-1199",
+      "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 5,
+      "title": [
+        "Fixed-point solutions to the regress problem in normative uncertainty"
+      ],
+      "prefix": "10.1007",
+      "volume": "198",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-9946-0976",
+          "authenticated-orcid": false,
+          "given": "Philip",
+          "family": "Trammell",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "297",
+      "published-online": {
+        "date-parts": [
+          [
+            2019,
+            2,
+            14
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "issue": "4",
+          "key": "2098_CR1",
+          "doi-asserted-by": "publisher",
+          "first-page": "503",
+          "DOI": "10.2307/1907921",
+          "volume": "21",
+          "author": "M Allais",
+          "year": "1953",
+          "unstructured": "Allais, M. (1953). Le comportement de l’homme rationnel devant le risque: critique des postulats et axiomes de l’ecole Americaine. Econometrica, 21(4), 503–546.",
+          "journal-title": "Econometrica"
+        },
+        {
+          "issue": "6",
+          "key": "2098_CR2",
+          "doi-asserted-by": "publisher",
+          "first-page": "898",
+          "DOI": "10.1080/00455091.2016.1198198",
+          "volume": "46",
+          "author": "C Barry",
+          "year": "2016",
+          "unstructured": "Barry, C., & Tomlin, P. (2016). Moral uncertainty and permissibility: Evaluating option sets. Canadian Journal of Philosophy, 46(6), 898–923.",
+          "journal-title": "Canadian Journal of Philosophy"
+        },
+        {
+          "key": "2098_CR3",
+          "doi-asserted-by": "publisher",
+          "first-page": "329",
+          "DOI": "10.1016/j.jet.2017.01.002",
+          "volume": "168",
+          "author": "D Bergemann",
+          "year": "2017",
+          "unstructured": "Bergemann, D., Morris, S., & Takahashi, S. (2017). Interdependent preferences and strategic distinguishability. Journal of Economic Theory, 168, 329–371.",
+          "journal-title": "Journal of Economic Theory"
+        },
+        {
+          "issue": "3",
+          "key": "2098_CR4",
+          "doi-asserted-by": "publisher",
+          "first-page": "443",
+          "DOI": "10.1093/analys/anp062",
+          "volume": "69",
+          "author": "N Bostrom",
+          "year": "2016",
+          "unstructured": "Bostrom, N. (2016). Pascal’s mugging. Analysis, 69(3), 443–445.",
+          "journal-title": "Analysis"
+        },
+        {
+          "key": "2098_CR5",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/acprof:oso/9780199672165.001.0001",
+          "volume-title": "Risk and rationality",
+          "author": "L Buchak",
+          "year": "2013",
+          "unstructured": "Buchak, L. (2013). Risk and rationality. Oxford: Oxford University Press."
+        },
+        {
+          "issue": "4",
+          "key": "2098_CR6",
+          "doi-asserted-by": "publisher",
+          "first-page": "661",
+          "DOI": "10.1007/s11229-014-0398-1",
+          "volume": "191",
+          "author": "H Lin",
+          "year": "2014",
+          "unstructured": "Lin, H. (2014). On the regress problem of deciding how to decide. Synthese, 191(4), 661–670.",
+          "journal-title": "Synthese"
+        },
+        {
+          "issue": "4",
+          "key": "2098_CR7",
+          "doi-asserted-by": "publisher",
+          "first-page": "1105",
+          "DOI": "10.2307/2938176",
+          "volume": "59",
+          "author": "B Lipman",
+          "year": "1991",
+          "unstructured": "Lipman, B. (1991). How to decide how to decide how to...: Modeling limited rationality. Econometrica, 59(4), 1105–1125.",
+          "journal-title": "Econometrica"
+        },
+        {
+          "key": "2098_CR8",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1093/oso/9780195126105.001.0001",
+          "volume-title": "Moral uncertainty and its consequences",
+          "author": "T Lockhart",
+          "year": "2000",
+          "unstructured": "Lockhart, T. (2000). Moral uncertainty and its consequences. Oxford: Oxford University Press."
+        },
+        {
+          "issue": "3",
+          "key": "2098_CR9",
+          "doi-asserted-by": "publisher",
+          "first-page": "508",
+          "DOI": "10.1086/669564",
+          "volume": "123",
+          "author": "W MacAskill",
+          "year": "2013",
+          "unstructured": "MacAskill, W. (2013). The infectiousness of Nihilism. Ethics, 123(3), 508–520.",
+          "journal-title": "Ethics"
+        },
+        {
+          "key": "2098_CR10",
+          "unstructured": "MacAskill, W. (2014). “Normative Uncertainty”. D.Phil. thesis, University of Oxford."
+        },
+        {
+          "issue": "500",
+          "key": "2098_CR11",
+          "doi-asserted-by": "publisher",
+          "first-page": "967",
+          "DOI": "10.1093/mind/fzv169",
+          "volume": "125",
+          "author": "W MacAskill",
+          "year": "2016",
+          "unstructured": "MacAskill, W. (2016). Normative uncertainty as a voting problem. Mind, 125(500), 967–1004.",
+          "journal-title": "Mind"
+        },
+        {
+          "issue": "9",
+          "key": "2098_CR12",
+          "doi-asserted-by": "publisher",
+          "first-page": "425",
+          "DOI": "10.5840/jphil2016113929",
+          "volume": "113",
+          "author": "W MacAskill",
+          "year": "2016",
+          "unstructured": "MacAskill, W. (2016). Smokers, psychos, and decision-theoretic uncertainty. The Journal of Philosophy, 113(9), 425–445.",
+          "journal-title": "The Journal of Philosophy"
+        },
+        {
+          "issue": "1",
+          "key": "2098_CR13",
+          "doi-asserted-by": "publisher",
+          "first-page": "1",
+          "DOI": "10.1007/BF01770224",
+          "volume": "14",
+          "author": "J Mertens",
+          "year": "1985",
+          "unstructured": "Mertens, J., & Zamir, S. (1985). Formulation of Bayesian analysis for games with incomplete information. International Journal of Game Theory, 14(1), 1–29.",
+          "journal-title": "International Journal of Game Theory"
+        },
+        {
+          "key": "2098_CR14",
+          "volume-title": "Reasons and persons",
+          "author": "D Parfit",
+          "year": "1984",
+          "unstructured": "Parfit, D. (1984). Reasons and persons. Oxford: Oxford University Press."
+        },
+        {
+          "issue": "1",
+          "key": "2098_CR15",
+          "first-page": "155",
+          "volume": "126",
+          "author": "J Pittard",
+          "year": "2017",
+          "unstructured": "Pittard, J., & Worsnip, A. (2017). Metanormative contextualism and normative uncertainty. Mind, 126(1), 155–193.",
+          "journal-title": "Mind"
+        },
+        {
+          "key": "2098_CR16",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.4159/9780674042605",
+          "volume-title": "A theory of justice",
+          "author": "J Rawls",
+          "year": "1971",
+          "unstructured": "Rawls, J. (1971). A theory of justice. Cambridge, MA: Harvard University Press."
+        },
+        {
+          "key": "2098_CR17",
+          "volume-title": "The foundations of statistics",
+          "author": "L Savage",
+          "year": "1954",
+          "unstructured": "Savage, L. (1954). The foundations of statistics. New York: Wiley."
+        },
+        {
+          "key": "2098_CR18",
+          "volume-title": "Oxford studies in metaethics",
+          "author": "A Sepielli",
+          "year": "2009",
+          "unstructured": "Sepielli, A. (2009). What to do when you don’t know what to do. In R. Shafer-Landau (Ed.), Oxford studies in metaethics (Vol. X). Oxford: Oxford University Press."
+        },
+        {
+          "issue": "1",
+          "key": "2098_CR19",
+          "doi-asserted-by": "publisher",
+          "first-page": "521",
+          "DOI": "10.1111/nous.12010",
+          "volume": "47",
+          "author": "A Sepielli",
+          "year": "2014",
+          "unstructured": "Sepielli, A. (2014). What to do when you don’t know what to do when you don’t know what to do. Noûs, 47(1), 521–544.",
+          "journal-title": "Noûs"
+        },
+        {
+          "key": "2098_CR20",
+          "volume-title": "Oxford studies in normative ethics",
+          "author": "A Sepielli",
+          "year": "2017",
+          "unstructured": "Sepielli, A. (2017). How moral uncertaintism can be both true & interesting. In M. Timmons (Ed.), Oxford studies in normative ethics (Vol. VII). Oxford: Oxford University Press."
+        },
+        {
+          "issue": "2",
+          "key": "2098_CR21",
+          "doi-asserted-by": "publisher",
+          "first-page": "64",
+          "DOI": "10.1017/S0265052509990161",
+          "volume": "27",
+          "author": "H Smith",
+          "year": "2010",
+          "unstructured": "Smith, H. (2010). Subjective rightness. Social Philosophy and Policy, 27(2), 64–110.",
+          "journal-title": "Social Philosophy and Policy"
+        },
+        {
+          "key": "2098_CR22",
+          "unstructured": "Tarsney, C. (2017). Rationality and moral risk: A moderate defense of hedging. Ph.D. thesis, University of Maryland, College Park."
+        },
+        {
+          "key": "2098_CR23",
+          "volume-title": "Theory of games and economic behavior",
+          "author": "J von Neumann",
+          "year": "1953",
+          "unstructured": "von Neumann, J., & Morgenstern, O. (1953). Theory of games and economic behavior. Princeton: Princeton University Press."
+        },
+        {
+          "issue": "1",
+          "key": "2098_CR24",
+          "doi-asserted-by": "publisher",
+          "first-page": "141",
+          "DOI": "10.1007/s11098-013-0227-2",
+          "volume": "167",
+          "author": "B Weatherson",
+          "year": "2014",
+          "unstructured": "Weatherson, B. (2014). Running risks morally. Philosophical Studies, 167(1), 141–163.",
+          "journal-title": "Philosophical Studies"
+        }
+      ],
+      "container-title": [
+        "Synthese"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "http://link.springer.com/article/10.1007/s11229-019-02098-9/fulltext.html",
+          "content-type": "text/html",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "http://link.springer.com/content/pdf/10.1007/s11229-019-02098-9.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "http://link.springer.com/content/pdf/10.1007/s11229-019-02098-9.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2024,
+            7,
+            14
+          ]
+        ],
+        "date-time": "2024-07-14T20:00:10Z",
+        "timestamp": 1720987210000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "http://link.springer.com/10.1007/s11229-019-02098-9"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2019,
+            2,
+            14
+          ]
+        ]
+      },
+      "references-count": 24,
+      "journal-issue": {
+        "issue": "2",
+        "published-print": {
+          "date-parts": [
+            [
+              2021,
+              2
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "2098"
+      ],
+      "URL": "https://doi.org/10.1007/s11229-019-02098-9",
+      "relation": {},
+      "ISSN": [
+        "0039-7857",
+        "1573-0964"
+      ],
+      "issn-type": [
+        {
+          "value": "0039-7857",
+          "type": "print"
+        },
+        {
+          "value": "1573-0964",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2019,
+            2,
+            14
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "13 April 2018",
+          "order": 1,
+          "name": "received",
+          "label": "Received",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "value": "16 January 2019",
+          "order": 2,
+          "name": "accepted",
+          "label": "Accepted",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "value": "14 February 2019",
+          "order": 3,
+          "name": "first_online",
+          "label": "First Online",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        }
+      ]
+    },
+    "primary_source": "https://philiptrammell.com/static/regress_problem.pdf",
+    "bibtex_retrieved": true,
+    "retrieved_date": "2026-10-18"
+  },
+  "kauppinen2026": {
+    "doi": "10.1007/s11098-026-02570-6",
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            10
+          ]
+        ],
+        "date-time": "2026-10-10T10:50:57Z",
+        "timestamp": 1791629457788,
+        "version": "4.3.4"
+      },
+      "reference-count": 43,
+      "publisher": "Springer Science and Business Media LLC",
+      "issue": "10",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                6,
+                29
+              ]
+            ],
+            "date-time": "2026-06-29T00:00:00Z",
+            "timestamp": 1782691200000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                6,
+                29
+              ]
+            ],
+            "date-time": "2026-06-29T00:00:00Z",
+            "timestamp": 1782691200000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        }
+      ],
+      "funder": [
+        {
+          "name": "University of Helsinki",
+          "id": [
+            {
+              "id": "https://ror.org/040af2s02",
+              "id-type": "ROR",
+              "asserted-by": "crossref"
+            }
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "link.springer.com"
+        ],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "Philos Stud"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            10
+          ]
+        ]
+      },
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Recently, many epistemologists have proposed instrumental norms of inquiry, that is, norms that concern taking means to answer the questions we are pursuing. But which questions should we pursue in the first place, and why? In this paper, I offer a novel defense of the radical pragmatist view, according to which there are no epistemic norms of inquiry, and all reasons to pursue questions and take means to answering them are practical. This includes reasons linked with the intrinsic or prudential value of cognitive goods like knowledge or understanding. We can confirm this by observing that fitting reactions to failure to respond to such reasons are practical rather than epistemic in nature (e.g. pity rather than epistemic downgrading). Given that reasons don’t transubstantiate when they are transmitted, any instrumental ‘zetetic’ reasons to take means to answer questions are practical as well. All of the above is nevertheless compatible with granting that some ways of inquiring do merit epistemic criticism. But that’s not because they violate some specifically zetetic epistemic norm, but because they are based on means-end beliefs that don’t constitute knowledge or lack justification, and thus entail violations of traditional epistemic norms. In the big picture, what this means is that the part of epistemology that concerns norms of inquiry overlaps with value theory and theory of practical rationality.</jats:p>",
+      "DOI": "10.1007/s11098-026-02570-6",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            6,
+            29
+          ]
+        ],
+        "date-time": "2026-06-29T01:02:55Z",
+        "timestamp": 1782694975000
+      },
+      "page": "2925-2945",
+      "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "Reasons for questions and the norms of inquiry"
+      ],
+      "prefix": "10.1007",
+      "volume": "183",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0009-0002-1979-8940",
+          "authenticated-orcid": false,
+          "given": "Antti",
+          "family": "Kauppinen",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "297",
+      "published-online": {
+        "date-parts": [
+          [
+            2026,
+            6,
+            29
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "issue": "61",
+          "key": "2570_CR1",
+          "doi-asserted-by": "publisher",
+          "first-page": "95",
+          "DOI": "10.2478/disp-2021-0006",
+          "volume": "13",
+          "author": "A Archer",
+          "year": "2021",
+          "unstructured": "Archer, A. (2021). The aim of inquiry. Disputatio, 13(61), 95–119.",
+          "journal-title": "Disputatio"
+        },
+        {
+          "key": "2570_CR2",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Aristotle (2000). Nicomachean Ethics. Translated by Roger Crisp. Cambridge: Cambridge University Press.",
+          "DOI": "10.1017/CBO9780511802058"
+        },
+        {
+          "issue": "1",
+          "key": "2570_CR3",
+          "doi-asserted-by": "publisher",
+          "first-page": "22",
+          "DOI": "10.1111/phis.12239",
+          "volume": "33",
+          "author": "N Arpaly",
+          "year": "2023",
+          "unstructured": "Arpaly, N. (2023). Practical reasons to believe, epistemic reasons to act, and the baffled action theorist. Philosophical Issues, 33(1), 22–32.",
+          "journal-title": "Philosophical Issues"
+        },
+        {
+          "issue": "1",
+          "key": "2570_CR4",
+          "doi-asserted-by": "publisher",
+          "first-page": "330",
+          "DOI": "10.1111/phpr.13042",
+          "volume": "109",
+          "author": "B Beddor",
+          "year": "2023",
+          "unstructured": "Beddor, B. (2023). Inquiry beyond knowledge. Philosophy and Phenomenological Research, 109(1), 330–356.",
+          "journal-title": "Philosophy and Phenomenological Research"
+        },
+        {
+          "issue": "4",
+          "key": "2570_CR5",
+          "doi-asserted-by": "publisher",
+          "first-page": "427",
+          "DOI": "10.1111/phib.12140",
+          "volume": "59",
+          "author": "S Berker",
+          "year": "2018",
+          "unstructured": "Berker, S. (2018). A combinatorial argument against practical reasons for belief. Analytic Philosophy, 59(4), 427–470.",
+          "journal-title": "Analytic Philosophy"
+        },
+        {
+          "key": "2570_CR43",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Boult, C. (2024). Epistemic Blame. Oxford University Press.",
+          "DOI": "10.1093/oso/9780192890580.001.0001"
+        },
+        {
+          "issue": "2",
+          "key": "2570_CR6",
+          "doi-asserted-by": "publisher",
+          "first-page": "252",
+          "DOI": "10.2307/2184441",
+          "volume": "90",
+          "author": "M Bratman",
+          "year": "1981",
+          "unstructured": "Bratman, M. (1981). Intention and means-end reasoning. Philosophical Review, 90(2), 252–265.",
+          "journal-title": "Philosophical Review"
+        },
+        {
+          "issue": "4",
+          "key": "2570_CR7",
+          "doi-asserted-by": "publisher",
+          "first-page": "622",
+          "DOI": "10.1093/analys/anab037",
+          "volume": "81",
+          "author": "A Falbo",
+          "year": "2021",
+          "unstructured": "Falbo, A. (2021). Inquiry and confirmation. Analysis, 81(4), 622–631.",
+          "journal-title": "Analysis"
+        },
+        {
+          "issue": "10-11",
+          "key": "2570_CR8",
+          "doi-asserted-by": "publisher",
+          "first-page": "2977",
+          "DOI": "10.1007/s11098-023-02016-3",
+          "volume": "180",
+          "author": "A Falbo",
+          "year": "2023",
+          "unstructured": "Falbo, A. (2023). Should epistemology take the zetetic turn? Philosophical Studies, 180(10–11), 2977–3002.",
+          "journal-title": "Philosophical Studies"
+        },
+        {
+          "issue": "3",
+          "key": "2570_CR9",
+          "doi-asserted-by": "publisher",
+          "first-page": "667",
+          "DOI": "10.2307/2653823",
+          "volume": "60",
+          "author": "R Feldman",
+          "year": "2000",
+          "unstructured": "Feldman, R. (2000). The ethics of belief. Philosophy and Phenomenological Research, 60(3), 667–695.",
+          "journal-title": "Philosophy and Phenomenological Research"
+        },
+        {
+          "issue": "9",
+          "key": "2570_CR10",
+          "doi-asserted-by": "publisher",
+          "first-page": "2547",
+          "DOI": "10.1007/s11098-023-01978-8",
+          "volume": "180",
+          "author": "C Flores",
+          "year": "2023",
+          "unstructured": "Flores, C., & Woodard, E. (2023). Epistemic norms on evidence-gathering. Philosophical Studies, 180(9), 2547–2571.",
+          "journal-title": "Philosophical Studies"
+        },
+        {
+          "issue": "4",
+          "key": "2570_CR11",
+          "doi-asserted-by": "publisher",
+          "first-page": "501",
+          "DOI": "10.1215/00318108-8540918",
+          "volume": "129",
+          "author": "J Friedman",
+          "year": "2020",
+          "unstructured": "Friedman, J. (2020). The epistemic and the zetetic. Philosophical Review, 129(4), 501–536.",
+          "journal-title": "Philosophical Review"
+        },
+        {
+          "key": "2570_CR12",
+          "unstructured": "Friedman, Jane (forthcoming). Zetetic Epistemology. In Baron Reed & A. K. Flowerree, Towards an Expansive Epistemology: Norms, Action, and the Social Sphere."
+        },
+        {
+          "issue": "488",
+          "key": "2570_CR13",
+          "doi-asserted-by": "publisher",
+          "first-page": "915",
+          "DOI": "10.1093/mind/fzt090",
+          "volume": "122",
+          "author": "H Greaves",
+          "year": "2013",
+          "unstructured": "Greaves, H. (2013). Epistemic decision theory. Mind, 122(488), 915–952.",
+          "journal-title": "Mind"
+        },
+        {
+          "issue": "2",
+          "key": "2570_CR14",
+          "first-page": "129",
+          "volume": "35",
+          "author": "RJ Hall",
+          "year": "1998",
+          "unstructured": "Hall, R. J., & Johnson, C. R. (1998). The epistemic duty to seek more evidence. American Philosophical Quarterly, 35(2), 129–139.",
+          "journal-title": "American Philosophical Quarterly"
+        },
+        {
+          "issue": "10",
+          "key": "2570_CR15",
+          "doi-asserted-by": "publisher",
+          "first-page": "571",
+          "DOI": "10.5840/jphil20081051022",
+          "volume": "105",
+          "author": "J Hawthorne",
+          "year": "2008",
+          "unstructured": "Hawthorne, J., & Stanley, J. (2008). Knowledge and action. Journal of Philosophy, 105(10), 571–590.",
+          "journal-title": "Journal of Philosophy"
+        },
+        {
+          "key": "2570_CR16",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Horowitz, Sophie (2019). Predictably misleading evidence. In M. S. Rasmussen and A. Steglich- Petersen (Eds.), Higher-Order Evidence: New Essays. Oxford University Press.",
+          "DOI": "10.1093/oso/9780198829775.003.0005"
+        },
+        {
+          "key": "2570_CR41",
+          "unstructured": "Hurka, T. (1993). Perfectionism. Oxford University Press."
+        },
+        {
+          "key": "2570_CR42",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Hurka, T. (2020). The parallel goods of knowledge and achievement. Erkenntnis, 85, 589–608.",
+          "DOI": "10.1007/s10670-020-00245-0"
+        },
+        {
+          "key": "2570_CR17",
+          "unstructured": "Kauppinen, Antti (2018). Epistemic Norms and Epistemic Accountability. Philosophers’ Imprint 18 (8), 1–16."
+        },
+        {
+          "key": "2570_CR18",
+          "doi-asserted-by": "publisher",
+          "first-page": "251",
+          "DOI": "10.5840/msp202311037",
+          "volume": "46",
+          "author": "A Kauppinen",
+          "year": "2022",
+          "unstructured": "Kauppinen, A. (2022). Epistemic welfare bads and other failures of reason. Midwest Studies in Philosophy, 46, 251–279.",
+          "journal-title": "Midwest Studies in Philosophy"
+        },
+        {
+          "key": "2570_CR19",
+          "first-page": "137",
+          "volume": "18",
+          "author": "A Kauppinen",
+          "year": "2023",
+          "unstructured": "Kauppinen, A. (2023). The epistemic vs. the practical. Oxford Studies in Metaethics, 18, 137–162.",
+          "journal-title": "Oxford Studies in Metaethics"
+        },
+        {
+          "key": "2570_CR20",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/0020174X.2025.2569053",
+          "author": "A Kauppinen",
+          "year": "2025",
+          "unstructured": "Kauppinen, A. (2025). Is there such a thing as epistemic blame? Inquiry. An Interdisciplinary Journal of Philosophy. https://doi.org/10.1080/0020174X.2025.2569053",
+          "journal-title": "An Interdisciplinary Journal of Philosophy"
+        },
+        {
+          "issue": "3",
+          "key": "2570_CR21",
+          "doi-asserted-by": "publisher",
+          "first-page": "612",
+          "DOI": "10.1111/j.1933-1592.2003.tb00281.x",
+          "volume": "66",
+          "author": "T Kelly",
+          "year": "2003",
+          "unstructured": "Kelly, T. (2003). Epistemic rationality as instrumental rationality: A critique. Philosophy and Phenomenological Research, 66(3), 612–640.",
+          "journal-title": "Philosophy and Phenomenological Research"
+        },
+        {
+          "key": "2570_CR22",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/oso/9780192896094.001.0001",
+          "volume-title": "Inquiry, Knowledge, and Understanding",
+          "author": "C Kelp",
+          "year": "2021",
+          "unstructured": "Kelp, C. (2021). Inquiry, Knowledge, and Understanding. Oxford."
+        },
+        {
+          "key": "2570_CR23",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/oso/9780198754282.001.0001",
+          "volume-title": "The Normativity of Rationality",
+          "author": "B Kiesewetter",
+          "year": "2017",
+          "unstructured": "Kiesewetter, B. (2017). The Normativity of Rationality. Oxford."
+        },
+        {
+          "key": "2570_CR24",
+          "first-page": "90",
+          "volume-title": "Normativity: Epistemic and practical",
+          "author": "B Kiesewetter",
+          "year": "2018",
+          "unstructured": "Kiesewetter, B. (2018). How reasons are sensitive to available evidence. In C. McHugh, J. Way, & D. Whiting (Eds.), Normativity: Epistemic and practical (pp. 90–114). Oxford University Press."
+        },
+        {
+          "key": "2570_CR25",
+          "first-page": "133",
+          "volume-title": "Daniel Star",
+          "author": "N Kolodny",
+          "year": "2018",
+          "unstructured": "Kolodny, N. (2018). Instrumental reasons. Daniel Star (pp. 133–248). New York: The Oxford Handbook of Reasons and Normativity."
+        },
+        {
+          "issue": "504",
+          "key": "2570_CR26",
+          "first-page": "1109",
+          "volume": "126",
+          "author": "E Lord",
+          "year": "2017",
+          "unstructured": "Lord, E. (2017). What you’re rationally required to do and what you ought to do. Mind, 126(504), 1109–1154.",
+          "journal-title": "Mind"
+        },
+        {
+          "issue": "4",
+          "key": "2570_CR27",
+          "doi-asserted-by": "publisher",
+          "first-page": "684",
+          "DOI": "10.1111/j.1468-0068.2009.00724.x",
+          "volume": "43",
+          "author": "R Neta",
+          "year": "2009",
+          "unstructured": "Neta, R. (2009). Treating something as a reason for action. Noûs, 43(4), 684–699.",
+          "journal-title": "Noûs"
+        },
+        {
+          "issue": "4",
+          "key": "2570_CR28",
+          "doi-asserted-by": "publisher",
+          "first-page": "533",
+          "DOI": "10.1093/bjps/48.4.533",
+          "volume": "48",
+          "author": "G Oddie",
+          "year": "1997",
+          "unstructured": "Oddie, G. (1997). Conditionalization, cogency, and cognitive value. British Journal for the Philosophy of Science, 48(4), 533–541.",
+          "journal-title": "British Journal for the Philosophy of Science"
+        },
+        {
+          "key": "2570_CR29",
+          "unstructured": "Pettigrew, R. (ms). The Value of Information and the Epistemology of Inquiry. Online at https://philarchive.org/rec/PETTAG-5"
+        },
+        {
+          "issue": "1",
+          "key": "2570_CR30",
+          "volume": "1",
+          "author": "J Raz",
+          "year": "2005",
+          "unstructured": "Raz, J. (2005). The myth of instrumental rationality. Journal of Ethics and Social Philosophy, 1(1), Article 28.",
+          "journal-title": "Journal of Ethics and Social Philosophy"
+        },
+        {
+          "key": "2570_CR31",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.4324/9781003382973",
+          "volume-title": "Responsibility for rationality: Foundations of an ethics of mind",
+          "author": "S Schmidt",
+          "year": "2024",
+          "unstructured": "Schmidt, S. (2024). Responsibility for rationality: Foundations of an ethics of mind. Routledge."
+        },
+        {
+          "key": "2570_CR32",
+          "unstructured": "Singer, Daniel J. & Aronowitz, Sara (2022). What Epistemic Reasons Are For: Against the Belief-Sandwich Distinction. In B. Dunaway & D. Plunkett, Meaning, Decision, and Norms: Themes From the Work of Allan Gibbard. Ann Arbor, Michigan: Maize Books."
+        },
+        {
+          "issue": "9",
+          "key": "2570_CR33",
+          "doi-asserted-by": "publisher",
+          "first-page": "2979",
+          "DOI": "10.1080/0020174X.2021.2004220",
+          "volume": "67",
+          "author": "A Steglich-Petersen",
+          "year": "2024",
+          "unstructured": "Steglich-Petersen, A. (2024). An instrumentalist unification of zetetic and epistemic reasons. Inquiry: An Interdisciplinary Journal of Philosophy, 67(9), 2979–3006.",
+          "journal-title": "Inquiry: An Interdisciplinary Journal of Philosophy"
+        },
+        {
+          "issue": "9",
+          "key": "2570_CR34",
+          "doi-asserted-by": "publisher",
+          "first-page": "2913",
+          "DOI": "10.1007/s11098-020-01592-y",
+          "volume": "178",
+          "author": "D Thorstad",
+          "year": "2021",
+          "unstructured": "Thorstad, D. (2021). Inquiry and the epistemic. Philosophical Studies, 178(9), 2913–2928.",
+          "journal-title": "Philosophical Studies"
+        },
+        {
+          "issue": "5",
+          "key": "2570_CR35",
+          "doi-asserted-by": "publisher",
+          "first-page": "1",
+          "DOI": "10.1007/s11229-022-03896-4",
+          "volume": "200",
+          "author": "D Thorstad",
+          "year": "2022",
+          "unstructured": "Thorstad, D. (2022). There are no epistemic norms of inquiry. Synthese, 200(5), 1–24.",
+          "journal-title": "Synthese"
+        },
+        {
+          "issue": "2",
+          "key": "2570_CR36",
+          "doi-asserted-by": "publisher",
+          "first-page": "135",
+          "DOI": "10.5840/philtopics202351220",
+          "volume": "51",
+          "author": "D Thorstad",
+          "year": "2023",
+          "unstructured": "Thorstad, D. (2023). Norms of inquiry. Philosophical Topics, 51(2), 135–160.",
+          "journal-title": "Philosophical Topics"
+        },
+        {
+          "key": "2570_CR40",
+          "unstructured": "Titz, I. (forthcoming). A zetetic approach to perspectivism. Philosophical Quarterly."
+        },
+        {
+          "issue": "1",
+          "key": "2570_CR37",
+          "doi-asserted-by": "publisher",
+          "first-page": "384",
+          "DOI": "10.1093/pq/pqae083",
+          "volume": "76",
+          "author": "C Willard-Kyle",
+          "year": "2026",
+          "unstructured": "Willard-Kyle, C., Millson, J., & Whitcomb, D. (2026). Evoked questions and inquiring attitudes. Philosophical Quarterly, 76(1), 384–406.",
+          "journal-title": "Philosophical Quarterly"
+        },
+        {
+          "issue": "2",
+          "key": "2570_CR38",
+          "doi-asserted-by": "publisher",
+          "first-page": "644",
+          "DOI": "10.1017/epi.2022.22",
+          "volume": "21",
+          "author": "E Woodard",
+          "year": "2024",
+          "unstructured": "Woodard, E. (2024). Why double-check? Episteme, 21(2), 644–667.",
+          "journal-title": "Episteme"
+        },
+        {
+          "key": "2570_CR39",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/oso/9780197608142.001.0001",
+          "volume-title": "Fitting things together: Coherence and the demands of structural rationality",
+          "author": "A Worsnip",
+          "year": "2021",
+          "unstructured": "Worsnip, A. (2021). Fitting things together: Coherence and the demands of structural rationality. Oxford University Press."
+        }
+      ],
+      "container-title": [
+        "Philosophical Studies"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://link.springer.com/content/pdf/10.1007/s11098-026-02570-6.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://link.springer.com/article/10.1007/s11098-026-02570-6",
+          "content-type": "text/html",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://link.springer.com/content/pdf/10.1007/s11098-026-02570-6.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            10
+          ]
+        ],
+        "date-time": "2026-10-10T10:30:31Z",
+        "timestamp": 1791628231000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://link.springer.com/10.1007/s11098-026-02570-6"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            6,
+            29
+          ]
+        ]
+      },
+      "references-count": 43,
+      "journal-issue": {
+        "issue": "10",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "2570"
+      ],
+      "URL": "https://doi.org/10.1007/s11098-026-02570-6",
+      "relation": {},
+      "ISSN": [
+        "0031-8116",
+        "1573-0883"
+      ],
+      "issn-type": [
+        {
+          "value": "0031-8116",
+          "type": "print"
+        },
+        {
+          "value": "1573-0883",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            6,
+            29
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "1 September 2025",
+          "order": 1,
+          "name": "received",
+          "label": "Received",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "value": "22 May 2026",
+          "order": 2,
+          "name": "accepted",
+          "label": "Accepted",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "value": "29 June 2026",
+          "order": 3,
+          "name": "first_online",
+          "label": "First Online",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        }
+      ]
+    },
+    "primary_source": "https://link.springer.com/article/10.1007/s11098-026-02570-6",
+    "bibtex_retrieved": true,
+    "retrieved_date": "2026-10-18"
+  },
+  "enoch2006": {
+    "doi": "10.1215/00318108-2005-014",
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            17
+          ]
+        ],
+        "date-time": "2026-10-17T19:24:10Z",
+        "timestamp": 1792265050790,
+        "version": "4.4.0"
+      },
+      "reference-count": 44,
+      "publisher": "Duke University Press",
+      "issue": "2",
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [],
+      "published-print": {
+        "date-parts": [
+          [
+            2006,
+            4,
+            1
+          ]
+        ]
+      },
+      "DOI": "10.1215/00318108-2005-014",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2018,
+            6,
+            14
+          ]
+        ],
+        "date-time": "2018-06-14T12:57:14Z",
+        "timestamp": 1528981034000
+      },
+      "page": "169-198",
+      "source": "Crossref",
+      "is-referenced-by-count": 124,
+      "title": [
+        "Agency, Shmagency: Why Normativity Won't Come from What Is Constitutive of Action"
+      ],
+      "prefix": "10.1215",
+      "volume": "115",
+      "author": [
+        {
+          "given": "David",
+          "family": "Enoch",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "73",
+      "reference": [
+        {
+          "key": "key\n\t\t\t\t20180614085704_",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Blackburn, Simon. 1993. Essays in Quasi-Realism. Oxford: Oxford University Press.",
+          "DOI": "10.1093/oso/9780195080414.001.0001"
+        },
+        {
+          "key": "key\n\t\t\t\t20180614085704_",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Enoch, David. 2001. “Once You Start Using Slippery Slope Arguments, You're on a Very Slippery Slope.” Oxford Journal of Legal Studies21: 629-47.",
+          "DOI": "10.1093/ojls/21.4.629"
+        },
+        {
+          "key": "key\n\t\t\t\t20180614085704_",
+          "unstructured": "____. 2003. “An Argument for Robust Metanormative Realism.” PhD diss., New York University, law.mscc.huji.ac.il/law1/newsite/segel/enoch/index.html."
+        },
+        {
+          "key": "key\n\t\t\t\t20180614085704_",
+          "doi-asserted-by": "crossref",
+          "unstructured": "____. 2005. “Why Idealize?” Ethics115: 759-87.",
+          "DOI": "10.1086/430490"
+        },
+        {
+          "key": "key\n\t\t\t\t20180614085704_",
+          "unstructured": "____. Forthcoming. “An Outline of an Argument for Robust Metanormative Realism.” In Oxford Studies in Metaethics, vol. 2. Oxford: Oxford University Press."
+        },
+        {
+          "key": "key\n\t\t\t\t20180614085704_",
+          "unstructured": "Enoch, David, and Joshua Schechter. n.d.“How Are Basic Belief-Forming Methods Justified?” Unpublished manuscript."
+        },
+        {
+          "key": "key\n\t\t\t\t20180614085704_",
+          "unstructured": "Gewirth, Alan. 1978. Reason and Morality. Chicago: University of Chicago Press."
+        },
+        {
+          "key": "key\n\t\t\t\t20180614085704_",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Gibbard, Allan. 1999. “Morality as Consistency in Living: Korsgaard's Kantian Lectures.” Ethics110: 140-64.",
+          "DOI": "10.1086/233207"
+        },
+        {
+          "key": "key\n\t\t\t\t20180614085704_",
+          "unstructured": "Hookway, Christopher. 1999. “Modest Transcendental Arguments and Sceptical Doubts: A Reply to Hooker.” In Stern 1999, 173-87."
+        },
+        {
+          "key": "key\n\t\t\t\t20180614085704_",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Hussain, Nadeem. 2004. “Discussion—`The Guise of a Reason'.” Philosophical Studies121: 263-75.",
+          "DOI": "10.1007/s11098-004-5509-2"
+        },
+        {
+          "key": "key\n\t\t\t\t20180614085704_",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Korsgaard, Christine. 1996. The Sources of Normativity. Cambridge: Cambridge University Press.",
+          "DOI": "10.1017/CBO9780511554476"
+        },
+        {
+          "key": "key\n\t\t\t\t20180614085704_",
+          "unstructured": "____. 2002. “Self-Constitution: Agency, Identity, and Integrity.” The Locke Lectures given at Oxford University, May and June 2002, www.people.fas.harvard.edu/~korsgaar."
+        },
+        {
+          "key": "key\n\t\t\t\t20180614085704_",
+          "unstructured": "____. n.d. “Normativity, Necessity, and the Synthetic a priori: A Response to Derek Parfit.” Unpublished manuscript, www.people.fas.harvard.edu/~korsgaar/Korsgaard.on.Parfit.pdf."
+        },
+        {
+          "key": "key\n\t\t\t\t20180614085704_",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Lavin, Douglas. 2004. “Practical Reason and the Possibility of Error.” Ethics114: 424-57.",
+          "DOI": "10.1086/381695"
+        },
+        {
+          "key": "key\n\t\t\t\t20180614085704_",
+          "unstructured": "Lewis, David. 1996. “Desire as Belief II.” Mind105: 303-13. Reprinted in Papers in Ethics and Social Philosophy, 55-67. Cambridge: Cambridge University Press, 2000."
+        },
+        {
+          "key": "key\n\t\t\t\t20180614085704_",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Marmor, Andrei. 2001. Positive Law and Objective Values. Oxford: Clarendon.",
+          "DOI": "10.1093/acprof:oso/9780198268970.001.0001"
+        },
+        {
+          "key": "key\n\t\t\t\t20180614085704_",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Mele, Alfred. 2004. “Discussion—Velleman in Action and Agency.” Philosophical Studies121: 249-61.",
+          "DOI": "10.1007/s11098-004-5508-3"
+        },
+        {
+          "key": "key\n\t\t\t\t20180614085704_",
+          "unstructured": "Moore, Adrian. 1999. “Conative Transcendental Arguments and the Question Whether There Can Be External Reasons.” In Stern 1999, 271-92."
+        },
+        {
+          "key": "key\n\t\t\t\t20180614085704_",
+          "unstructured": "Nagel, Thomas. 1970. The Possibility of Altruism. Princeton, NJ: Princeton University Press."
+        },
+        {
+          "key": "key\n\t\t\t\t20180614085704_",
+          "unstructured": "____. 1997. The Last Word. Oxford: Oxford University Press."
+        },
+        {
+          "key": "key\n\t\t\t\t20180614085704_",
+          "unstructured": "Nietzsche, Friedrich. 1967. The Will to Power, trans. Walter Arnold Kaufmann and R. J. Hollingdale, ed. Walter Arnold Kaufmann. New York: Vintage."
+        },
+        {
+          "key": "key\n\t\t\t\t20180614085704_",
+          "doi-asserted-by": "crossref",
+          "unstructured": "O'Hagan, Emer. 2004. “Practical Identity and the Constitution of Agency.” Journal of Value Inquiry38: 49-59.",
+          "DOI": "10.1023/B:INQU.0000040031.59597.54"
+        },
+        {
+          "key": "key\n\t\t\t\t20180614085704_",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Railton, Peter. 1997. “On the Hypothetical and Non-Hypothetical in Reasoning about Belief and Action.” In Ethics and Practical Reason, ed. Garrett Cullity and Berys Gaut, 53-79. Oxford: Clarendon.",
+          "DOI": "10.1093/oso/9780198236467.003.0003"
+        },
+        {
+          "key": "key\n\t\t\t\t20180614085704_",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Regan, Donald. 2003. “How to Be a Moorean.” Ethics113: 651-77.",
+          "DOI": "10.1086/367589"
+        },
+        {
+          "key": "key\n\t\t\t\t20180614085704_",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Rosati, Connie. 2003. “Agency and the Open Question Argument.” Ethics113: 490-527.",
+          "DOI": "10.1086/345625"
+        },
+        {
+          "key": "key\n\t\t\t\t20180614085704_",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Rysiew, Patrick. 2002. “Reid and Epistemic Naturalism.” Philosophical Quarterly52: 437-56.",
+          "DOI": "10.1111/1467-9213.00279"
+        },
+        {
+          "key": "key\n\t\t\t\t20180614085704_",
+          "unstructured": "Schechter, Joshua, and David Enoch. Forthcoming. “Meaning and Justification: The Case of Modus Ponens.” Noûs."
+        },
+        {
+          "key": "key\n\t\t\t\t20180614085704_",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Setiya, Kieren. 2003. “Explaining Action.” Philosophical Review112: 339-93.",
+          "DOI": "10.1215/00318108-112-3-339"
+        },
+        {
+          "key": "key\n\t\t\t\t20180614085704_",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Shafer-Landau, Russ. 2003. Moral Realism: A Defence. Oxford: Oxford University Press.",
+          "DOI": "10.1093/0199259755.001.0001"
+        },
+        {
+          "key": "key\n\t\t\t\t20180614085704_",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Shah, Nishi. 2003. “How Truth Governs Belief.” Philosophical Review112: 447-82.",
+          "DOI": "10.1215/00318108-112-4-447"
+        },
+        {
+          "key": "key\n\t\t\t\t20180614085704_",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Shah, Nishi, and J. David Velleman. Forthcoming. “Doxastic Deliberation.” Philosophical Review114, no. 4.",
+          "DOI": "10.1215/00318108-114-4-497"
+        },
+        {
+          "key": "key\n\t\t\t\t20180614085704_",
+          "unstructured": "Sharon, Assaf. n.d.“Unreflected Glory: A Challenge to Metanormative Constructivism.” Unpublished manuscript."
+        },
+        {
+          "key": "key\n\t\t\t\t20180614085704_",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Stern, Robert, ed. 1999. Transcendental Arguments: Problems and Prospects. Oxford: Oxford University Press.",
+          "DOI": "10.1093/oso/9780198238379.001.0001"
+        },
+        {
+          "key": "key\n\t\t\t\t20180614085704_",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Sturgeon, Nicholas. 2003. “Moore on Ethical Naturalism.” Ethics113: 528-56.",
+          "DOI": "10.1086/345627"
+        },
+        {
+          "key": "key\n\t\t\t\t20180614085704_",
+          "unstructured": "Velleman, J. David. 1989. Practical Reflection. Princeton, NJ: Princeton University Press."
+        },
+        {
+          "key": "key\n\t\t\t\t20180614085704_",
+          "unstructured": "____. 2000a. The Possibility of Practical Reason. Oxford: Oxford University Press."
+        },
+        {
+          "key": "key\n\t\t\t\t20180614085704_",
+          "unstructured": "____. 2000b. “Introduction.” In Velleman 2000a, 1-31."
+        },
+        {
+          "key": "key\n\t\t\t\t20180614085704_",
+          "unstructured": "____. 2000c. “On the Aim of Belief.” In Velleman 2000a, 244-81."
+        },
+        {
+          "key": "key\n\t\t\t\t20180614085704_",
+          "doi-asserted-by": "crossref",
+          "unstructured": "____. 2000d [1996]. “The Possibility of Practical Reason.” In Velleman 2000a, 170-99 (originally appeared in Ethics 106: 694-726).",
+          "DOI": "10.1086/233669"
+        },
+        {
+          "key": "key\n\t\t\t\t20180614085704_",
+          "unstructured": "____. 2000e [1998]. “Is Motivation Internal to Value?” In Velleman 2000a, 85-98."
+        },
+        {
+          "key": "key\n\t\t\t\t20180614085704_",
+          "doi-asserted-by": "crossref",
+          "unstructured": "____. 2004a. “Precis of The Possibility of Practical Reason.” Philosophical Studies121: 225-38.",
+          "DOI": "10.1007/s11098-004-5506-5"
+        },
+        {
+          "key": "key\n\t\t\t\t20180614085704_",
+          "doi-asserted-by": "crossref",
+          "unstructured": "____. 2004b. “Replies to Discussion on The Possibility of Practical Reason.” Philosophical Studies121: 277-98.",
+          "DOI": "10.1007/s11098-004-5510-9"
+        },
+        {
+          "key": "key\n\t\t\t\t20180614085704_",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Weintraub, Ruth. 1997. The Sceptical Challenge. London: Routledge.",
+          "DOI": "10.4324/9780203283868"
+        },
+        {
+          "key": "key\n\t\t\t\t20180614085704_",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Wright, Crispin. 1991. “Scepticism and Dreaming: Imploding the Demon.” Mind 100: 87-116.",
+          "DOI": "10.1093/mind/C.397.87"
+        }
+      ],
+      "container-title": [
+        "The Philosophical Review"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "http://read.dukeupress.edu/the-philosophical-review/article-pdf/115/2/169/462297/PR115.2.c.Enoch.2.pdf",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2024,
+            7,
+            7
+          ]
+        ],
+        "date-time": "2024-07-07T13:29:04Z",
+        "timestamp": 1720358944000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://read.dukeupress.edu/the-philosophical-review/article/115/2/169/2694/Agency-Shmagency-Why-Normativity-Wont-Come-from"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2006,
+            4,
+            1
+          ]
+        ]
+      },
+      "references-count": 44,
+      "journal-issue": {
+        "issue": "2",
+        "published-print": {
+          "date-parts": [
+            [
+              2006,
+              4,
+              1
+            ]
+          ]
+        }
+      },
+      "URL": "https://doi.org/10.1215/00318108-2005-014",
+      "relation": {},
+      "ISSN": [
+        "0031-8108",
+        "1558-1470"
+      ],
+      "issn-type": [
+        {
+          "value": "0031-8108",
+          "type": "print"
+        },
+        {
+          "value": "1558-1470",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2006,
+            4,
+            1
+          ]
+        ]
+      }
+    },
+    "primary_source": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2607208",
+    "bibtex_retrieved": true,
+    "retrieved_date": "2026-10-18"
+  },
+  "bradleysteele2016": {
+    "doi": "10.1086/684184",
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            24
+          ]
+        ],
+        "date-time": "2026-07-24T13:28:32Z",
+        "timestamp": 1784899712448,
+        "version": "3.55.0"
+      },
+      "reference-count": 36,
+      "publisher": "Cambridge University Press (CUP)",
+      "issue": "1",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2022,
+                1,
+                1
+              ]
+            ],
+            "date-time": "2022-01-01T00:00:00Z",
+            "timestamp": 1640995200000
+          },
+          "content-version": "unspecified",
+          "delay-in-days": 2192,
+          "URL": "https://www.cambridge.org/core/terms"
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "Philos. of Sci."
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2016,
+            1
+          ]
+        ]
+      },
+      "abstract": "<jats:p>This article considers a puzzling conflict between two positions that are each compelling: (<jats:italic>a</jats:italic>) it is irrational for an agent to pay to avoid ‘free’ evidence, and (<jats:italic>b</jats:italic>) rational agents may have imprecise beliefs. An important aspect of responding to this conflict is resolving the question of how rational (imprecise) agents ought to make sequences of decisions—we make explicit what the key alternatives are and defend our own approach. We endorse a resolution of the aforementioned puzzle—we privilege decision theories that merely permit avoiding free evidence over decision theories that make avoiding free information obligatory.</jats:p>",
+      "DOI": "10.1086/684184",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2015,
+            12,
+            10
+          ]
+        ],
+        "date-time": "2015-12-10T11:47:14Z",
+        "timestamp": 1449748034000
+      },
+      "page": "1-28",
+      "source": "Crossref",
+      "is-referenced-by-count": 37,
+      "title": [
+        "Can Free Evidence Be Bad? Value of Information for the Imprecise Probabilist"
+      ],
+      "prefix": "10.1017",
+      "volume": "83",
+      "author": [
+        {
+          "given": "Seamus",
+          "family": "Bradley",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Katie",
+          "family": "Steele",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "56",
+      "published-online": {
+        "date-parts": [
+          [
+            2022,
+            1,
+            1
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "S0031824800008771_rf30",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1214/aos/1034713653"
+        },
+        {
+          "key": "S0031824800008771_rf13",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1017/CBO9780511804847"
+        },
+        {
+          "key": "S0031824800008771_rf14",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2307/2025161"
+        },
+        {
+          "key": "S0031824800008771_rf17",
+          "first-page": "92",
+          "volume-title": "Foundations of Decision Theory",
+          "author": "Levi",
+          "year": "1991"
+        },
+        {
+          "key": "S0031824800008771_rf2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/9781118763117"
+        },
+        {
+          "key": "S0031824800008771_rf9",
+          "volume-title": "Reasoning about Uncertainty",
+          "author": "Halpern",
+          "year": "2003"
+        },
+        {
+          "key": "S0031824800008771_rf22",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s10670-013-9531-7"
+        },
+        {
+          "key": "S0031824800008771_rf29",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2307/2027108"
+        },
+        {
+          "key": "S0031824800008771_rf27",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1017/S0266267100001085"
+        },
+        {
+          "key": "S0031824800008771_rf28",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1023/B:SYNT.0000029942.11359.8d"
+        },
+        {
+          "key": "S0031824800008771_rf8",
+          "volume-title": "Proceedings of the Twentieth Conference on Uncertainty in AI",
+          "author": "Grünwald",
+          "year": "2004"
+        },
+        {
+          "key": "S0031824800008771_rf36",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/978-1-4899-3472-7"
+        },
+        {
+          "key": "S0031824800008771_rf25",
+          "volume-title": "The Foundations of Statistics",
+          "author": "Savage",
+          "year": "1972"
+        },
+        {
+          "key": "S0031824800008771_rf32",
+          "volume-title": "The Dynamics of Rational Deliberation",
+          "author": "Skyrms",
+          "year": "1990"
+        },
+        {
+          "key": "S0031824800008771_rf33",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s11238-009-9145-3"
+        },
+        {
+          "key": "S0031824800008771_rf4",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s10670-013-9529-1"
+        },
+        {
+          "key": "S0031824800008771_rf6",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/BF00486156"
+        },
+        {
+          "key": "S0031824800008771_rf12",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.5840/jphil200810518"
+        },
+        {
+          "key": "S0031824800008771_rf19",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1086/289657"
+        },
+        {
+          "key": "S0031824800008771_rf5",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1006/jeth.1993.1056"
+        },
+        {
+          "key": "S0031824800008771_rf3",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1017/epi.2014.8"
+        },
+        {
+          "key": "S0031824800008771_rf7",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/bjps/17.4.319"
+        },
+        {
+          "key": "S0031824800008771_rf23",
+          "volume-title": "Applied Statistical Decision Theory",
+          "author": "Raiffa",
+          "year": "1961"
+        },
+        {
+          "key": "S0031824800008771_rf15",
+          "volume-title": "The Enterprise of Knowledge",
+          "author": "Levi",
+          "year": "1980"
+        },
+        {
+          "key": "S0031824800008771_rf34",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/j.1468-0068.2007.00676.x"
+        },
+        {
+          "key": "S0031824800008771_rf20",
+          "volume-title": "Critical Rationalism: A Restatement and Defence",
+          "author": "Miller",
+          "year": "1994"
+        },
+        {
+          "key": "S0031824800008771_rf10",
+          "article-title": "Learning Experiences and the Value of Knowledge",
+          "volume": "171",
+          "author": "Huttegger",
+          "year": "2013",
+          "journal-title": "Philosophical Studies"
+        },
+        {
+          "key": "S0031824800008771_rf11",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/j.1520-8583.2005.00058.x"
+        },
+        {
+          "key": "S0031824800008771_rf26",
+          "first-page": "496",
+          "article-title": "Extensions of Expected Utility Theory and Some Limitations of Pairwise Comparisons",
+          "volume": "2003",
+          "author": "Schervish",
+          "year": "2003",
+          "journal-title": "Proceedings of ISIPTA"
+        },
+        {
+          "key": "S0031824800008771_rf31",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1214/aos/1176349254"
+        },
+        {
+          "key": "S0031824800008771_rf21",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1137/1.9780898717716"
+        },
+        {
+          "key": "S0031824800008771_rf16",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1017/CBO9781139171960"
+        },
+        {
+          "key": "S0031824800008771_rf18",
+          "article-title": "Value Commitments, Value Conflict and the Separability of Belief and Value",
+          "volume": "66",
+          "author": "Hurley",
+          "year": "1999",
+          "journal-title": "Philosophy of Science"
+        },
+        {
+          "key": "S0031824800008771_rf1",
+          "article-title": "The Ambiguity Aversion Literature: A Critical Assessment",
+          "volume": "25",
+          "author": "Al-Najjar",
+          "year": "2009",
+          "journal-title": "Economics and Philosophy"
+        },
+        {
+          "key": "S0031824800008771_rf35",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/bdm.3960010305"
+        },
+        {
+          "key": "S0031824800008771_rf24",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/bjps/41.1.1"
+        }
+      ],
+      "container-title": [
+        "Philosophy of Science"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/S0031824800008771",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2022,
+            1,
+            6
+          ]
+        ],
+        "date-time": "2022-01-06T02:45:55Z",
+        "timestamp": 1641437155000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://www.cambridge.org/core/product/identifier/S0031824800008771/type/journal_article"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2016,
+            1
+          ]
+        ]
+      },
+      "references-count": 36,
+      "journal-issue": {
+        "issue": "1",
+        "published-print": {
+          "date-parts": [
+            [
+              2016,
+              1
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "S0031824800008771"
+      ],
+      "URL": "https://doi.org/10.1086/684184",
+      "relation": {},
+      "ISSN": [
+        "0031-8248",
+        "1539-767X"
+      ],
+      "issn-type": [
+        {
+          "value": "0031-8248",
+          "type": "print"
+        },
+        {
+          "value": "1539-767X",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2016,
+            1
+          ]
+        ]
+      }
+    },
+    "primary_source": "https://eprints.lse.ac.uk/62610/1/Steele_Can%20free%20evidence%20be%20bad_2016.pdf",
+    "bibtex_retrieved": true,
+    "retrieved_date": "2026-10-18"
+  },
+  "turner2021": {
+    "metadata_source": "https://proceedings.neurips.cc/paper_files/paper/2021/file/c26820b8a4c1b3c2aa868d6d57e14a79-Bibtex.bib",
+    "bibtex_retrieved": true,
+    "retrieved_date": "2026-10-18"
+  },
+  "skalse2022": {
+    "metadata_source": "https://github.com/nikihowe/reward-hacking-paper",
+    "secondary_metadata": "https://dblp.org/rec/conf/nips/SkalseHKK22",
+    "bibtex_retrieved": true,
+    "retrieved_date": "2026-10-18",
+    "bibtex": "@article{skalse2022,\n  title={Defining and characterizing reward gaming},\n  author={Skalse, Joar and Howe, Nikolaus and Krasheninnikov, Dmitrii and Krueger, David},\n  journal={Advances in Neural Information Processing Systems},\n  volume={35},\n  pages={9460--9471},\n  year={2022}\n}"
+  }
+}

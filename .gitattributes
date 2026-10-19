@@ -1,0 +1,4 @@
+* text=auto eol=lf
+*.csv -text whitespace=cr-at-eol
+*.pdf -text
+*.zip -text

@@ -1,0 +1,30 @@
+{
+  "date": "2026-10-19",
+  "compiler": "Tectonic 0.17.0",
+  "pdf_pages": 12,
+  "pdf_extracted_word_count": 5595,
+  "resolved_citation_keys": 10,
+  "retrieved_reference_records": 10,
+  "experiment_conditions": 960,
+  "open_strict_deferral": 266,
+  "frozen_strict_deferral": 0,
+  "independent_verification": {
+    "method": "exact enumeration of realized action paths independent of the Bellman recursion",
+    "horizons": [
+      1,
+      2,
+      4
+    ],
+    "checked_cases": 576,
+    "enumerated_action_paths": 125760,
+    "value_mismatches": 0,
+    "first_choice_mismatches": 0
+  },
+  "tex_layout_or_reference_warnings": [],
+  "source_sha256": "4579f085f23ab1bff654727cf779ecc482f128fa14ddf02dcab38b06cb7d0900",
+  "pdf_sha256": "33a9cb27f512edcb40390ce321223fc9e27b47475583025ebe6b0929beeb4b72",
+  "visual_review": "passed: all 12 final pages reviewed in rendered contact sheets; cover and English introduction also inspected at full-page resolution",
+  "embedded_fonts": 15,
+  "all_fonts_embedded": true,
+  "revision_focus": "English introduction: infinite deferral, resource acquisition, and conditional betrayal risk"
+}
